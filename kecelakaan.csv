@@ -1,0 +1,501 @@
+ACCIDENT NO,ACCIDENT DATE,ACCIDENT TIME,ACCIDENT TYPE,ACCIDENT TYPE DESC,DAY OF WEEK,DAY WEEK DESCRIPTION,DCA CODE,DCA DESCRIPTION,DIRECTORY,EDITION,PAGE,GRID REFERENCE X,GRID REFERENCE Y,LIGHT CONDITION,LIGHT CONDITION DESC,NODE ID,NO OF VEHICLES,NO PERSONS,NO PERSONS INJ 2,NO PERSONS INJ 3,NO PERSONS KILLED,NO PERSONS NOT INJ,POLICE ATTEND,ROAD GEOMETRY,ROAD GEOMETRY  DESC,SEVERITY,SPEED ZONE
+12000000389,4/1/2000,22.30.00,4,Collision with a fixed object,3,Tuesday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE       ,MEL,40,88,H,11,5,Dark No street lights,25264,1,2,1,0,1,0,1,5,Not at intersection,1,90
+12000000554,6/1/2000,22.15.00,4,Collision with a fixed object,5,Thursday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE       ,MEL,40,87,C,1,3,Dark Street lights on,42800,1,1,1,0,0,0,1,2,T intersection,2,60
+12000000555,1/1/2000,18.00.00,1,Collision with vehicle,7,Saturday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2P,C,6,1,Day,40101,4,4,1,1,0,2,1,2,T intersection,2,60
+12000000559,2/1/2000,01.00.00,4,Collision with a fixed object,1,Sunday,181,OFF RIGHT BEND INTO OBJECT/PARKED VEHICLE          ,MEL,40,76,F,7,3,Dark Street lights on,127638,1,2,2,0,0,0,1,5,Not at intersection,2,60
+12000000586,3/1/2000,23.50.00,1,Collision with vehicle,2,Monday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,69,A,3,3,Dark Street lights on,57539,3,3,0,2,0,1,1,1,Cross intersection,3,70
+12000000781,9/1/2000,09.05.00,1,Collision with vehicle,1,Sunday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,86,F,7,1,Day,42727,2,3,0,1,0,2,1,1,Cross intersection,3,60
+12000000808,8/1/2000,11.05.00,1,Collision with vehicle,7,Saturday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,77,F,5,1,Day,42193,2,4,1,0,0,3,1,2,T intersection,2,70
+12000000810,8/1/2000,10.00.00,1,Collision with vehicle,7,Saturday,147,VEHICLE STRIKES ANOTHER VEH WHILE EMERGING FROM DRIVEWAY,MEL,40,97,C,6,1,Day,126973,3,4,0,1,0,3,1,5,Not at intersection,3,60
+12000001446,7/1/2000,13.13.00,1,Collision with vehicle,6,Friday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,77,A,1,1,Day,127387,2,3,1,0,0,2,1,5,Not at intersection,2,80
+12000001526,7/1/2000,14.30.00,1,Collision with vehicle,6,Friday,137,LEFT TURN SIDESWIPE                     ,MEL,40,67,G,9,1,Day,45858,2,2,0,1,0,1,2,2,T intersection,3,60
+12000001708,12/1/2000,10.40.00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2J,E,8,1,Day,37424,2,3,1,0,0,2,1,2,T intersection,2,60
+12000001731,13/01/2000,08.00.00,1,Collision with vehicle,5,Thursday,121,RIGHT THROUGH                        ,MEL,40,79,E,12,1,Day,42433,2,2,0,1,0,1,1,2,T intersection,3,70
+12000001947,6/1/2000,17.45.00,1,Collision with vehicle,5,Thursday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,68,J,9,9,Unknown,41444,5,5,0,1,0,4,2,1,Cross intersection,3,60
+12000002177,1/1/2000,13.15.00,1,Collision with vehicle,7,Saturday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2G,G,5,1,Day,35376,2,4,0,1,0,3,1,1,Cross intersection,3,70
+12000002238,5/1/2000,06.45.00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,59,E,12,2,Dusk/Dawn,40357,2,2,0,1,0,1,2,2,T intersection,3,70
+12000002253,1/1/2000,01.20.00,1,Collision with vehicle,7,Saturday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2K,B,4,3,Dark Street lights on,35397,2,4,0,1,0,3,1,1,Cross intersection,3,60
+12000002264,1/1/2000,02.25.00,2,Struck Pedestrian,7,Saturday,108,PED STRUCK WALKING TO/FROM OR BOARDING/ALIGHTING VEHICLE.  ,MEL,40,68,F,5,3,Dark Street lights on,41375,1,2,0,1,0,1,2,4,Multiple intersection,3,60
+12000002288,16/01/2000,16.10.00,2,Struck Pedestrian,1,Sunday,101,PED EMERGES FROM IN FRONT OF PARKED OR STATIONARY VEHICLE  ,MEL,40,2P,K,6,1,Day,127370,2,2,1,0,0,1,1,5,Not at intersection,2,60
+12000002458,6/1/2000,14.40.00,2,Struck Pedestrian,5,Thursday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.      ,MEL,40,1B,L,5,1,Day,126162,1,3,0,1,0,2,1,5,Not at intersection,3,60
+12000002490,1/1/2000,12.20.00,1,Collision with vehicle,7,Saturday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,67,G,7,1,Day,57561,2,4,1,0,0,3,1,1,Cross intersection,2,80
+12000002502,4/1/2000,03.10.00,4,Collision with a fixed object,3,Tuesday,173,RIGHT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE      ,MEL,40,1C,H,5,6,Dark Street lights unknown,127374,1,1,0,1,0,0,1,5,Not at intersection,3,60
+12000002504,7/1/2000,16.55.00,1,Collision with vehicle,6,Friday,121,RIGHT THROUGH                        ,MEL,40,1A,A,5,1,Day,29415,2,5,0,2,0,3,2,1,Cross intersection,3,60
+12000002509,5/1/2000,12.40.00,1,Collision with vehicle,4,Wednesday,135,LANE CHANGE LEFT (NOT OVERTAKING)              ,MEL,40,2C,D,7,1,Day,122590,2,3,1,1,0,1,1,5,Not at intersection,2,60
+12000002511,2/1/2000,06.50.00,4,Collision with a fixed object,1,Sunday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE       ,MEL,40,2H,A,10,1,Day,75070,1,2,0,2,0,0,1,5,Not at intersection,3,60
+12000002540,1/1/2000,08.15.00,2,Struck Pedestrian,7,Saturday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT         ,MEL,40,1D,V,8,1,Day,126652,1,4,1,0,1,2,1,5,Not at intersection,1,60
+12000002549,9/1/2000,09.15.00,6,Vehicle overturned (no collision),1,Sunday,170,OFF CARRIAGEWAY TO LEFT                   ,MEL,40,2H,D,12,1,Day,10627,1,1,0,1,0,0,2,5,Not at intersection,3,80
+12000002621,13/01/2000,09.40.00,1,Collision with vehicle,5,Thursday,135,LANE CHANGE LEFT (NOT OVERTAKING)              ,MEL,40,29,G,10,1,Day,4710,2,2,0,1,0,1,2,5,Not at intersection,3,60
+12000002625,10/1/2000,12.20.00,1,Collision with vehicle,2,Monday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2B,D,11,1,Day,36261,2,4,0,1,0,3,1,1,Cross intersection,3,60
+12000002633,3/1/2000,09.35.00,1,Collision with vehicle,2,Monday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,2C,D,4,1,Day,144,2,2,0,1,0,1,1,2,T intersection,3,60
+12000002642,1/1/2000,04.57.00,4,Collision with a fixed object,7,Saturday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE       ,MEL,40,1A,F,10,3,Dark Street lights on,127371,1,1,1,0,0,0,1,5,Not at intersection,2,60
+12000002643,3/1/2000,17.32.00,1,Collision with vehicle,2,Monday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,1C,K,12,1,Day,36909,2,2,0,2,0,0,1,1,Cross intersection,3,60
+12000002646,5/1/2000,13.00.00,1,Collision with vehicle,4,Wednesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2K,B,10,1,Day,37522,2,3,0,3,0,0,1,1,Cross intersection,3,60
+12000002652,6/1/2000,08.10.00,1,Collision with vehicle,5,Thursday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2K,A,9,1,Day,37503,2,3,0,1,0,2,1,1,Cross intersection,3,60
+12000002657,6/1/2000,16.45.00,1,Collision with vehicle,5,Thursday,131,LEFT REAR                          ,MEL,40,87,B,6,1,Day,35605,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000002662,5/1/2000,22.35.00,1,Collision with vehicle,4,Wednesday,120,HEAD ON (NOT OVERTAKING)                  ,MEL,40,86,J,1,3,Dark Street lights on,42748,2,2,1,1,0,0,1,2,T intersection,2,60
+12000002667,11/1/2000,11.15.00,1,Collision with vehicle,3,Tuesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2H,G,12,1,Day,37352,2,3,0,1,0,2,1,1,Cross intersection,3,60
+12000002669,4/1/2000,14.05.00,1,Collision with vehicle,3,Tuesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,1A,G,10,1,Day,35356,2,2,1,1,0,0,1,1,Cross intersection,2,60
+12000002693,10/1/2000,07.15.00,1,Collision with vehicle,2,Monday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,2P,D,2,1,Day,29592,3,3,0,1,0,2,1,4,Multiple intersection,3,60
+12000002696,10/1/2000,11.00.00,1,Collision with vehicle,2,Monday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2P,C,7,1,Day,40105,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000002706,4/1/2000,18.15.00,1,Collision with vehicle,3,Tuesday,152,PULLING OUT (OVERTAKING)                  ,MEL,40,58,F,7,1,Day,29598,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000002709,8/1/2000,13.45.00,8,No collision and no object struck,7,Saturday,174,OUT OF CONTROL ON CARRIAGEWAY (ON STRAIGHT)         ,MEL,40,2B,A,8,1,Day,127454,2,4,1,0,0,3,1,5,Not at intersection,2,60
+12000002716,8/1/2000,12.30.00,1,Collision with vehicle,7,Saturday,121,RIGHT THROUGH                        ,MEL,40,1A,G,10,1,Day,35356,2,2,1,0,0,1,1,1,Cross intersection,2,60
+12000002721,2/1/2000,22.10.00,1,Collision with vehicle,1,Sunday,160,VEHICLE COLLIDES WITH VEHICLE PARKED ON LEFT OF ROAD    ,MEL,40,2H,A,5,3,Dark Street lights on,127336,2,1,0,1,0,0,1,5,Not at intersection,3,60
+12000002722,6/1/2000,06.40.00,1,Collision with vehicle,5,Thursday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,1B,Q,1,2,Dusk/Dawn,65670,2,3,0,1,0,2,1,1,Cross intersection,3,60
+12000002738,7/1/2000,21.30.00,2,Struck Pedestrian,6,Friday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.      ,MEL,40,2K,F,1,3,Dark Street lights on,29460,1,2,0,1,0,1,2,1,Cross intersection,3,60
+12000002739,4/1/2000,01.00.00,1,Collision with vehicle,3,Tuesday,136,RIGHT TURN SIDESWIPE                    ,MEL,40,68,F,6,3,Dark Street lights on,41380,2,2,1,0,0,1,1,1,Cross intersection,2,60
+12000002740,12/1/2000,23.40.00,2,Struck Pedestrian,4,Wednesday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT         ,MEL,40,2C,A,8,3,Dark Street lights on,127338,1,2,1,0,0,1,1,5,Not at intersection,2,60
+12000002741,8/1/2000,07.35.00,1,Collision with vehicle,7,Saturday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,1C,H,12,1,Day,35302,2,3,0,1,0,2,1,2,T intersection,3,60
+12000002748,13/01/2000,08.30.00,1,Collision with vehicle,5,Thursday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,30,A,11,1,Day,29482,2,2,0,2,0,0,1,1,Cross intersection,3,60
+12000002750,12/1/2000,15.30.00,1,Collision with vehicle,4,Wednesday,143,ENTERING PARKING                      ,MEL,40,2P,A,8,1,Day,127337,2,2,0,1,0,1,1,5,Not at intersection,3,60
+12000002762,12/1/2000,23.10.00,1,Collision with vehicle,4,Wednesday,121,RIGHT THROUGH                        ,MEL,40,2J,F,1,3,Dark Street lights on,37411,2,2,0,2,0,0,1,1,Cross intersection,3,60
+12000002764,13/01/2000,15.50.00,1,Collision with vehicle,5,Thursday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2K,H,2,1,Day,127340,2,2,0,1,0,1,1,5,Not at intersection,3,60
+12000002774,11/1/2000,20.00.00,1,Collision with vehicle,3,Tuesday,131,LEFT REAR                          ,MEL,40,58,H,11,2,Dusk/Dawn,130177,2,3,0,1,0,2,2,5,Not at intersection,3,60
+12000002813,5/1/2000,08.00.00,4,Collision with a fixed object,4,Wednesday,173,RIGHT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE      ,MEL,40,2P,D,2,1,Day,10773,1,1,0,1,0,0,2,5,Not at intersection,3,60
+12000002917,1/1/2000,00.30.00,2,Struck Pedestrian,7,Saturday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.      ,MEL,40,1B,Q,10,3,Dark Street lights on,240,1,2,1,0,0,1,1,2,T intersection,2,60
+12000002919,8/1/2000,14.48.00,1,Collision with vehicle,7,Saturday,121,RIGHT THROUGH                        ,MEL,40,2L,D,11,1,Day,29466,2,3,0,1,0,2,1,1,Cross intersection,3,60
+12000002925,1/1/2000,18.00.00,1,Collision with vehicle,7,Saturday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2G,B,9,1,Day,249,2,3,0,1,0,2,2,1,Cross intersection,3,60
+12000002991,6/1/2000,11.01.00,1,Collision with vehicle,5,Thursday,121,RIGHT THROUGH                        ,MEL,40,1A,A,7,1,Day,29416,2,8,0,3,0,5,1,1,Cross intersection,3,60
+12000003068,12/1/2000,08.20.00,1,Collision with vehicle,4,Wednesday,163,VEHICLE STRIKES DOOR OF PARKED/STATIONARY VEHICLE      ,MEL,40,2P,H,9,1,Day,29597,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000003076,14/01/2000,06.20.00,1,Collision with vehicle,6,Friday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2E,H,12,1,Day,36813,2,5,0,2,0,3,1,1,Cross intersection,3,60
+12000003082,13/01/2000,16.30.00,1,Collision with vehicle,5,Thursday,121,RIGHT THROUGH                        ,MEL,40,1A,H,10,1,Day,36928,2,2,0,1,0,1,2,2,T intersection,3,60
+12000003098,13/01/2000,20.40.00,1,Collision with vehicle,5,Thursday,135,LANE CHANGE LEFT (NOT OVERTAKING)              ,MEL,40,2J,H,10,2,Dusk/Dawn,79939,2,5,1,0,0,4,1,5,Not at intersection,2,60
+12000003136,14/01/2000,15.30.00,1,Collision with vehicle,6,Friday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2C,F,8,1,Day,36629,2,3,0,1,0,2,1,1,Cross intersection,3,60
+12000003137,14/01/2000,16.40.00,2,Struck Pedestrian,6,Friday,101,PED EMERGES FROM IN FRONT OF PARKED OR STATIONARY VEHICLE  ,MEL,40,2G,J,1,1,Day,127388,1,2,0,1,0,1,2,5,Not at intersection,3,60
+12000003139,16/01/2000,11.55.00,4,Collision with a fixed object,1,Sunday,181,OFF RIGHT BEND INTO OBJECT/PARKED VEHICLE          ,MEL,40,2C,J,1,1,Day,127386,1,1,1,0,0,0,1,5,Not at intersection,2,60
+12000003183,11/1/2000,09.48.00,1,Collision with vehicle,3,Tuesday,140,U TURN                           ,MEL,40,88,B,8,1,Day,188669,2,2,1,0,0,1,1,5,Not at intersection,2,60
+12000003420,18/01/2000,01.30.00,2,Struck Pedestrian,3,Tuesday,103,PED PLAYING/LYING/WORKING/STANDING ON CARRIAGEWAY.,MEL,40,2N,G,3,3,Dark Street lights on,126656,1,2,0,0,1,1,1,5,Not at intersection,1,60
+12000003537,17/01/2000,17.00.00,1,Collision with vehicle,2,Monday,163,VEHICLE STRIKES DOOR OF PARKED/STATIONARY VEHICLE      ,MEL,40,1A,F,6,1,Day,127511,3,4,0,1,0,3,2,5,Not at intersection,3,60
+12000003564,17/01/2000,17.55.00,1,Collision with vehicle,2,Monday,121,RIGHT THROUGH                        ,MEL,40,30,B,12,1,Day,45873,2,2,0,2,0,0,1,2,T intersection,3,60
+12000003584,18/01/2000,08.45.00,1,Collision with vehicle,3,Tuesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2C,J,5,1,Day,127498,4,4,0,2,0,2,1,5,Not at intersection,3,60
+12000003725,16/01/2000,12.00.00,1,Collision with vehicle,1,Sunday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,68,F,4,1,Day,127448,2,3,0,2,0,1,2,5,Not at intersection,3,60
+12000003882,19/01/2000,20.50.00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,92,E,1,2,Dusk/Dawn,29721,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000003885,18/01/2000,09.22.00,1,Collision with vehicle,3,Tuesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,78,G,2,1,Day,42345,2,2,0,1,0,1,1,2,T intersection,3,60
+12000003949,22/01/2000,23.25.00,1,Collision with vehicle,7,Saturday,140,U TURN                           ,MEL,40,1B,R,3,3,Dark Street lights on,128879,2,2,0,1,0,1,1,5,Not at intersection,3,60
+12000003954,22/01/2000,20.15.00,4,Collision with a fixed object,7,Saturday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE       ,MEL,40,1B,V,10,3,Dark Street lights on,127545,2,2,1,0,0,1,1,5,Not at intersection,2,60
+12000003956,23/01/2000,16.18.00,1,Collision with vehicle,1,Sunday,132,RIGHT REAR.                         ,MEL,40,1A,A,9,1,Day,36839,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000003966,18/01/2000,16.15.00,1,Collision with vehicle,3,Tuesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2L,E,9,1,Day,29468,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000003969,14/01/2000,23.25.00,8,No collision and no object struck,6,Friday,172,OFF CARRIAGEWAY TO RIGHT                  ,MEL,40,93,H,12,3,Dark Street lights on,43252,2,4,0,3,0,1,1,2,T intersection,3,60
+12000003971,19/01/2000,05.10.00,4,Collision with a fixed object,4,Wednesday,181,OFF RIGHT BEND INTO OBJECT/PARKED VEHICLE          ,MEL,40,2N,J,6,3,Dark Street lights on,40063,1,1,1,0,0,0,1,3,Y intersection,2,60
+12000003984,16/01/2000,12.20.00,1,Collision with vehicle,1,Sunday,140,U TURN                           ,MEL,40,86,J,1,1,Day,42746,2,3,0,2,0,1,2,1,Cross intersection,3,60
+12000004036,16/01/2000,17.55.00,1,Collision with vehicle,1,Sunday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,67,G,7,1,Day,673,2,2,0,1,0,1,1,1,Cross intersection,3,80
+12000004042,14/01/2000,17.35.00,4,Collision with a fixed object,6,Friday,181,OFF RIGHT BEND INTO OBJECT/PARKED VEHICLE          ,MEL,40,97,J,7,1,Day,45846,1,1,1,0,0,0,1,2,T intersection,2,60
+12000004069,13/01/2000,18.10.00,1,Collision with vehicle,5,Thursday,121,RIGHT THROUGH                        ,MEL,40,87,A,8,1,Day,42778,2,5,1,0,0,4,1,1,Cross intersection,2,60
+12000004074,18/01/2000,15.40.00,1,Collision with vehicle,3,Tuesday,121,RIGHT THROUGH                        ,MEL,40,1A,C,5,1,Day,29417,2,3,1,2,0,0,1,1,Cross intersection,2,60
+12000004082,22/01/2000,10.55.00,1,Collision with vehicle,7,Saturday,111,RIGHT FAR (INTERSECTIONS ONLY)               ,MEL,40,2B,D,10,1,Day,57448,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000004088,19/01/2000,14.15.00,1,Collision with vehicle,4,Wednesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2P,D,4,1,Day,10679,2,2,0,1,0,1,1,4,Multiple intersection,3,60
+12000004098,17/01/2000,23.00.00,1,Collision with vehicle,2,Monday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,1A,G,9,3,Dark Street lights on,217,2,4,3,1,0,0,1,1,Cross intersection,2,60
+12000004105,18/01/2000,06.35.00,1,Collision with vehicle,3,Tuesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2P,H,5,2,Dusk/Dawn,29594,3,3,0,1,0,2,1,1,Cross intersection,3,60
+12000004112,17/01/2000,07.30.00,1,Collision with vehicle,2,Monday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,59,C,2,1,Day,191678,3,5,0,1,0,4,1,5,Not at intersection,3,100
+12000004125,19/01/2000,08.00.00,1,Collision with vehicle,4,Wednesday,121,RIGHT THROUGH                        ,MEL,40,2B,B,10,1,Day,36214,2,3,0,1,0,2,1,1,Cross intersection,3,60
+12000004157,12/1/2000,17.25.00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,59,A,4,1,Day,45851,2,5,0,1,0,4,1,1,Cross intersection,3,60
+12000004319,21/01/2000,18.00.00,1,Collision with vehicle,6,Friday,163,VEHICLE STRIKES DOOR OF PARKED/STATIONARY VEHICLE      ,MEL,40,2G,G,2,1,Day,76953,2,3,0,1,0,2,2,5,Not at intersection,3,60
+12000004434,18/01/2000,19.00.00,1,Collision with vehicle,3,Tuesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2P,D,5,2,Dusk/Dawn,40099,2,3,0,2,0,1,2,1,Cross intersection,3,60
+12000004469,12/1/2000,08.25.00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,93,F,6,1,Day,10668,2,4,0,1,0,3,2,2,T intersection,3,60
+12000004487,11/1/2000,16.15.00,1,Collision with vehicle,3,Tuesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,87,A,7,1,Day,29699,2,3,0,1,0,2,1,1,Cross intersection,3,60
+12000004496,13/01/2000,16.40.00,1,Collision with vehicle,5,Thursday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2E,H,6,1,Day,10669,2,2,1,0,0,1,1,5,Not at intersection,2,60
+12000004507,14/01/2000,07.30.00,4,Collision with a fixed object,6,Friday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE       ,MEL,40,2E,A,8,1,Day,127552,2,2,0,1,0,1,1,5,Not at intersection,3,60
+12000004529,31/01/2000,08.40.00,1,Collision with vehicle,2,Monday,163,VEHICLE STRIKES DOOR OF PARKED/STATIONARY VEHICLE      ,MEL,40,2F,H,12,1,Day,127555,4,4,0,2,0,2,1,5,Not at intersection,3,60
+12000004574,31/01/2000,13.32.00,1,Collision with vehicle,2,Monday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2C,B,7,1,Day,29401,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000004592,31/01/2000,11.30.00,4,Collision with a fixed object,2,Monday,183,OFF LEFT BEND INTO OBJECT/PARKED VEHICLE          ,MEL,40,42,K,11,1,Day,10671,1,1,0,1,0,0,1,4,Multiple intersection,3,100
+12000004595,31/01/2000,16.39.00,8,No collision and no object struck,2,Monday,184,OUT OF CONTROL ON CARRIAGEWAY (ON BEND)           ,MEL,40,42,J,12,1,Day,191683,1,1,1,0,0,0,1,4,Multiple intersection,2,80
+12000004596,31/01/2000,19.30.00,1,Collision with vehicle,2,Monday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,2A,E,9,1,Day,45884,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000004611,22/01/2000,19.00.00,1,Collision with vehicle,7,Saturday,121,RIGHT THROUGH                        ,MEL,40,59,E,11,1,Day,45882,2,3,0,1,0,2,1,2,T intersection,3,60
+12000004626,25/01/2000,21.32.00,4,Collision with a fixed object,3,Tuesday,175,OFF END OF ROAD/T-INTERSECTION.               ,MEL,40,78,B,5,3,Dark Street lights on,127476,1,2,0,2,0,0,1,5,Not at intersection,3,60
+12000004631,21/01/2000,08.15.00,2,Struck Pedestrian,6,Friday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.      ,MEL,40,1B,N,10,1,Day,238,1,2,0,2,0,0,1,1,Cross intersection,3,60
+12000004644,21/01/2000,15.39.00,1,Collision with vehicle,6,Friday,121,RIGHT THROUGH                        ,MEL,40,1D,M,11,1,Day,10654,2,2,0,1,0,1,1,5,Not at intersection,3,60
+12000004647,31/01/2000,22.50.00,1,Collision with vehicle,2,Monday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2B,D,10,3,Dark Street lights on,57448,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000004651,23/01/2000,21.40.00,1,Collision with vehicle,1,Sunday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,87,B,4,3,Dark Street lights on,42790,2,3,0,3,0,0,1,1,Cross intersection,3,60
+12000004708,18/01/2000,10.15.00,1,Collision with vehicle,3,Tuesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,1A,A,9,1,Day,124753,2,3,0,2,0,1,1,5,Not at intersection,3,60
+12000004717,17/01/2000,11.00.00,2,Struck Pedestrian,2,Monday,108,PED STRUCK WALKING TO/FROM OR BOARDING/ALIGHTING VEHICLE.  ,MEL,40,69,A,4,1,Day,127532,1,2,0,1,0,1,2,5,Not at intersection,3,60
+12000004731,22/01/2000,04.05.00,1,Collision with vehicle,7,Saturday,160,VEHICLE COLLIDES WITH VEHICLE PARKED ON LEFT OF ROAD    ,MEL,40,58,H,7,3,Dark Street lights on,91150,3,2,2,0,0,0,1,5,Not at intersection,2,60
+12000004733,17/01/2000,20.00.00,1,Collision with vehicle,2,Monday,135,LANE CHANGE LEFT (NOT OVERTAKING)              ,MEL,40,2J,G,8,1,Day,37444,2,2,0,1,0,1,2,2,T intersection,3,60
+12000004740,21/01/2000,12.25.00,1,Collision with vehicle,6,Friday,121,RIGHT THROUGH                        ,MEL,40,77,E,9,1,Day,42182,2,2,0,1,0,1,2,2,T intersection,3,60
+12000005038,17/01/2000,09.30.00,2,Struck Pedestrian,2,Monday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.      ,MEL,40,59,B,9,1,Day,126460,1,2,0,0,1,1,1,5,Not at intersection,1,60
+12000005159,27/01/2000,00.23.00,2,Struck Pedestrian,5,Thursday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT         ,MEL,40,1B,L,5,3,Dark Street lights on,127345,1,3,1,0,0,2,1,5,Not at intersection,2,60
+12000005170,19/01/2000,20.45.00,1,Collision with vehicle,4,Wednesday,147,VEHICLE STRIKES ANOTHER VEH WHILE EMERGING FROM DRIVEWAY,MEL,40,77,E,11,4,Dark Street lights off,42186,2,2,0,1,0,1,2,2,T intersection,3,60
+12000005176,18/01/2000,23.15.00,1,Collision with vehicle,3,Tuesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,68,C,4,3,Dark Street lights on,41318,2,3,2,0,0,1,1,1,Cross intersection,2,60
+12000005185,25/01/2000,16.20.00,1,Collision with vehicle,3,Tuesday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,59,G,11,1,Day,40400,2,2,0,1,0,1,2,2,T intersection,3,60
+12000005189,24/01/2000,11.00.00,2,Struck Pedestrian,2,Monday,103,PED PLAYING/LYING/WORKING/STANDING ON CARRIAGEWAY.,MEL,40,88,D,2,1,Day,127613,1,2,0,1,0,1,1,5,Not at intersection,3,70
+12000005190,21/01/2000,17.00.00,1,Collision with vehicle,6,Friday,150,HEAD ON(OVERTAKING)                     ,MEL,40,79,B,5,1,Day,42389,3,3,2,1,0,0,1,1,Cross intersection,2,60
+12000005191,23/01/2000,23.00.00,4,Collision with a fixed object,1,Sunday,175,OFF END OF ROAD/T-INTERSECTION.               ,MEL,40,79,G,8,4,Dark Street lights off,45894,1,1,0,1,0,0,1,2,T intersection,3,60
+12000005195,3/2/2000,15.40.00,4,Collision with a fixed object,5,Thursday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE       ,MEL,40,77,A,1,1,Day,128015,1,2,0,2,0,0,1,5,Not at intersection,3,60
+12000005199,26/01/2000,17.00.00,2,Struck Pedestrian,4,Wednesday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT         ,MEL,40,59,E,11,1,Day,40356,1,2,1,0,0,1,1,2,T intersection,2,60
+12000005201,19/01/2000,01.15.00,2,Struck Pedestrian,4,Wednesday,103,PED PLAYING/LYING/WORKING/STANDING ON CARRIAGEWAY.,MEL,40,59,A,7,3,Dark Street lights on,40244,1,8,0,1,0,7,1,2,T intersection,3,60
+12000005215,4/2/2000,20.25.00,1,Collision with vehicle,6,Friday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,56,G,1,3,Dark Street lights on,128016,3,9,0,2,0,7,1,5,Not at intersection,3,80
+12000005221,27/01/2000,09.15.00,1,Collision with vehicle,5,Thursday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2E,J,2,1,Day,36819,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000005224,18/01/2000,08.30.00,1,Collision with vehicle,3,Tuesday,143,ENTERING PARKING                      ,MEL,40,2P,G,12,1,Day,127623,2,2,0,1,0,1,2,5,Not at intersection,3,60
+12000005234,5/2/2000,00.30.00,1,Collision with vehicle,7,Saturday,131,LEFT REAR                          ,MEL,40,86,K,4,3,Dark Street lights on,232699,2,4,0,2,0,2,2,5,Not at intersection,3,80
+12000005236,12/1/2000,17.45.00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2K,C,6,1,Day,37539,4,4,0,1,0,3,2,1,Cross intersection,3,60
+12000005241,29/01/2000,21.18.00,4,Collision with a fixed object,7,Saturday,173,RIGHT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE      ,MEL,40,67,G,7,3,Dark Street lights on,41201,1,1,1,0,0,0,1,1,Cross intersection,2,60
+12000005252,30/01/2000,06.55.00,5,collision with some other object,1,Sunday,166,STRUCK OBJECT ON CARRIAGEWAY                ,MEL,40,2B,K,5,2,Dusk/Dawn,127610,1,2,1,0,0,1,1,5,Not at intersection,2,60
+12000005258,29/01/2000,19.45.00,1,Collision with vehicle,7,Saturday,116,LEFT NEAR (INTERSECTIONS ONLY)               ,MEL,40,2G,G,4,1,Day,37058,2,3,1,0,0,2,1,2,T intersection,2,70
+12000005274,9/1/2000,19.00.00,1,Collision with vehicle,1,Sunday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2A,K,11,1,Day,35307,2,3,0,2,0,1,2,1,Cross intersection,3,60
+12000005278,3/2/2000,18.30.00,1,Collision with vehicle,5,Thursday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2G,K,10,1,Day,35383,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000005279,18/01/2000,08.00.00,1,Collision with vehicle,3,Tuesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2E,E,3,1,Day,127349,5,5,0,3,0,2,2,5,Not at intersection,3,60
+12000005281,11/1/2000,08.00.00,1,Collision with vehicle,3,Tuesday,154,PULLING OUT -REAR END                    ,MEL,40,2K,H,4,1,Day,57873,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000005283,27/01/2000,08.45.00,1,Collision with vehicle,5,Thursday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,30,A,10,1,Day,37817,2,3,0,2,0,1,2,2,T intersection,3,60
+12000005304,14/01/2000,08.30.00,1,Collision with vehicle,6,Friday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,59,B,10,1,Day,57525,3,3,0,1,0,2,2,1,Cross intersection,3,80
+12000005306,28/01/2000,13.50.00,1,Collision with vehicle,6,Friday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2L,F,3,1,Day,381,3,5,0,2,0,3,1,1,Cross intersection,3,60
+12000005309,12/1/2000,10.30.00,1,Collision with vehicle,4,Wednesday,137,LEFT TURN SIDESWIPE                     ,MEL,40,67,D,6,1,Day,41133,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000005310,21/01/2000,09.25.00,2,Struck Pedestrian,6,Friday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.      ,MEL,40,2P,H,3,1,Day,57515,1,2,0,0,1,1,1,1,Cross intersection,1,70
+12000005312,18/01/2000,07.10.00,1,Collision with vehicle,3,Tuesday,121,RIGHT THROUGH                        ,MEL,40,58,G,7,1,Day,29600,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000005313,19/01/2000,16.30.00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,77,E,1,1,Day,29677,3,3,0,1,0,2,2,1,Cross intersection,3,60
+12000005315,14/01/2000,19.50.00,1,Collision with vehicle,6,Friday,121,RIGHT THROUGH                        ,MEL,40,67,G,12,1,Day,41205,2,3,0,1,0,2,2,2,T intersection,3,60
+12000005322,23/01/2000,05.40.00,1,Collision with vehicle,1,Sunday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,1B,Q,9,2,Dusk/Dawn,35366,3,7,0,1,0,6,1,1,Cross intersection,3,60
+12000005323,22/01/2000,16.00.00,4,Collision with a fixed object,7,Saturday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE       ,MEL,40,2C,A,12,1,Day,221507,1,4,1,1,0,2,1,5,Not at intersection,2,60
+12000005324,28/01/2000,17.45.00,1,Collision with vehicle,6,Friday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2H,E,6,1,Day,37306,2,4,0,2,0,2,1,1,Cross intersection,3,60
+12000005325,28/01/2000,05.00.00,5,collision with some other object,6,Friday,166,STRUCK OBJECT ON CARRIAGEWAY                ,MEL,40,2G,F,9,3,Dark Street lights on,127567,3,3,0,1,0,2,1,5,Not at intersection,3,60
+12000005329,27/01/2000,21.25.00,2,Struck Pedestrian,5,Thursday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.      ,MEL,40,86,K,4,3,Dark Street lights on,232696,1,3,1,0,0,2,1,5,Not at intersection,2,80
+12000005332,28/01/2000,22.30.00,7,Fall from or in moving vehicle,6,Friday,190,FELL IN/FROM VEHICLE                    ,MEL,40,2P,A,11,3,Dark Street lights on,127570,1,2,0,1,0,1,1,5,Not at intersection,3,60
+12000005337,17/01/2000,21.55.00,1,Collision with vehicle,2,Monday,140,U TURN                           ,MEL,40,2G,C,9,3,Dark Street lights on,127615,2,3,0,1,0,2,1,5,Not at intersection,3,60
+12000005339,20/01/2000,17.05.00,1,Collision with vehicle,5,Thursday,121,RIGHT THROUGH                        ,MEL,40,2G,F,11,1,Day,37049,2,2,1,0,0,1,1,2,T intersection,2,60
+12000005340,27/01/2000,12.19.00,4,Collision with a fixed object,5,Thursday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE       ,MEL,40,92,J,7,1,Day,43201,1,1,1,0,0,0,1,2,T intersection,2,60
+12000005343,24/01/2000,23.10.00,2,Struck Pedestrian,2,Monday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT         ,MEL,40,2G,F,5,3,Dark Street lights on,45888,1,2,0,1,0,1,1,2,T intersection,3,60
+12000005345,22/01/2000,23.02.00,1,Collision with vehicle,7,Saturday,121,RIGHT THROUGH                        ,MEL,40,2K,D,3,3,Dark Street lights on,37545,2,3,1,0,0,2,1,1,Cross intersection,2,60
+12000005346,22/01/2000,08.40.00,1,Collision with vehicle,7,Saturday,111,RIGHT FAR (INTERSECTIONS ONLY)               ,MEL,40,79,G,8,1,Day,787,2,3,1,1,0,1,1,1,Cross intersection,2,60
+12000005348,23/01/2000,08.25.00,1,Collision with vehicle,1,Sunday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,1A,F,10,1,Day,29420,2,3,0,1,0,2,1,1,Cross intersection,3,60
+12000005351,28/01/2000,15.15.00,1,Collision with vehicle,6,Friday,133,LANE SIDE SWIPE (VEHICLES IN PARALLEL LANES)        ,MEL,40,2T,C,4,1,Day,188670,2,3,0,1,0,2,1,5,Not at intersection,3,60
+12000005367,20/01/2000,18.24.00,8,No collision and no object struck,5,Thursday,174,OUT OF CONTROL ON CARRIAGEWAY (ON STRAIGHT)         ,MEL,40,92,F,1,1,Day,35626,1,1,0,1,0,0,1,1,Cross intersection,3,999
+12000005368,29/01/2000,16.15.00,2,Struck Pedestrian,7,Saturday,101,PED EMERGES FROM IN FRONT OF PARKED OR STATIONARY VEHICLE  ,MEL,40,2P,H,2,9,Unknown,127612,1,2,1,0,0,1,1,5,Not at intersection,2,999
+12000005371,19/01/2000,08.30.00,1,Collision with vehicle,4,Wednesday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,77,A,5,1,Day,42100,2,2,0,1,0,1,1,2,T intersection,3,60
+12000005374,17/01/2000,14.10.00,1,Collision with vehicle,2,Monday,121,RIGHT THROUGH                        ,MEL,40,59,C,4,1,Day,40291,2,6,0,1,0,5,1,1,Cross intersection,3,60
+12000005375,19/01/2000,04.00.00,1,Collision with vehicle,4,Wednesday,121,RIGHT THROUGH                        ,MEL,40,2L,E,5,3,Dark Street lights on,37610,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000005380,19/01/2000,16.50.00,1,Collision with vehicle,4,Wednesday,160,VEHICLE COLLIDES WITH VEHICLE PARKED ON LEFT OF ROAD    ,MEL,40,76,E,5,1,Day,127571,2,1,1,0,0,0,1,5,Not at intersection,2,60
+12000005382,1/2/2000,11.00.00,2,Struck Pedestrian,3,Tuesday,109,ANY MANOEUVRE INVOLVING PED NOT INCLUDED IN DCAs 100-108.  ,MEL,40,2M,J,3,1,Day,127704,2,1,0,1,0,0,1,5,Not at intersection,3,60
+12000005383,2/2/2000,19.55.00,1,Collision with vehicle,4,Wednesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,92,K,9,1,Day,884,2,6,0,2,0,4,1,1,Cross intersection,3,60
+12000005385,29/01/2000,01.40.00,2,Struck Pedestrian,7,Saturday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT         ,MEL,40,2L,H,12,3,Dark Street lights on,37705,1,3,0,1,0,2,1,1,Cross intersection,3,60
+12000005387,27/01/2000,10.46.00,1,Collision with vehicle,5,Thursday,134,LANE CHANGE RIGHT (NOT OVERTAKING)             ,MEL,40,2L,H,5,1,Day,80891,3,3,1,0,0,2,2,5,Not at intersection,2,60
+12000005389,31/01/2000,08.40.00,4,Collision with a fixed object,2,Monday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE       ,MEL,40,2M,F,12,1,Day,127557,1,1,1,0,0,0,1,5,Not at intersection,2,60
+12000005391,24/01/2000,11.15.00,1,Collision with vehicle,2,Monday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,68,E,12,1,Day,41369,2,2,0,2,0,0,1,1,Cross intersection,3,60
+12000005392,28/01/2000,16.35.00,1,Collision with vehicle,6,Friday,147,VEHICLE STRIKES ANOTHER VEH WHILE EMERGING FROM DRIVEWAY,MEL,40,2E,J,12,1,Day,130178,2,2,0,1,0,1,1,5,Not at intersection,3,60
+12000005393,30/01/2000,11.15.00,1,Collision with vehicle,1,Sunday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,77,H,8,1,Day,42227,3,4,0,1,0,3,1,1,Cross intersection,3,60
+12000005396,29/01/2000,14.30.00,1,Collision with vehicle,7,Saturday,147,VEHICLE STRIKES ANOTHER VEH WHILE EMERGING FROM DRIVEWAY,MEL,40,2M,B,2,1,Day,81093,2,4,0,2,0,2,2,5,Not at intersection,3,60
+12000005399,20/01/2000,07.50.00,1,Collision with vehicle,5,Thursday,135,LANE CHANGE LEFT (NOT OVERTAKING)              ,MEL,40,2L,A,6,1,Day,37592,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000005401,5/2/2000,22.15.00,1,Collision with vehicle,7,Saturday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,1B,L,2,3,Dark Street lights on,29422,2,5,0,4,0,1,1,1,Cross intersection,3,60
+12000005409,27/01/2000,08.25.00,1,Collision with vehicle,5,Thursday,121,RIGHT THROUGH                        ,MEL,40,68,A,12,1,Day,41294,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000005410,27/01/2000,08.50.00,1,Collision with vehicle,5,Thursday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,93,C,4,1,Day,36782,2,3,0,1,0,2,1,1,Cross intersection,3,80
+12000005415,22/01/2000,13.30.00,1,Collision with vehicle,7,Saturday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2C,E,5,1,Day,33747,3,6,1,0,0,5,1,1,Cross intersection,2,60
+12000005417,1/1/2000,05.20.00,1,Collision with vehicle,7,Saturday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2G,D,5,3,Dark Street lights on,36414,2,3,0,1,0,2,2,1,Cross intersection,3,60
+12000005422,1/2/2000,23.10.00,1,Collision with vehicle,3,Tuesday,140,U TURN                           ,MEL,40,67,J,10,3,Dark Street lights on,232697,2,3,1,0,0,2,1,5,Not at intersection,2,80
+12000005427,27/01/2000,09.30.00,1,Collision with vehicle,5,Thursday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,86,H,5,1,Day,42741,2,2,0,2,0,0,1,1,Cross intersection,3,60
+12000005435,1/2/2000,09.55.00,1,Collision with vehicle,3,Tuesday,140,U TURN                           ,MEL,40,68,H,3,1,Day,41406,2,3,1,2,0,0,1,2,T intersection,2,80
+12000005436,28/01/2000,15.05.00,1,Collision with vehicle,6,Friday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2B,D,3,1,Day,127558,3,2,0,1,0,1,2,5,Not at intersection,3,60
+12000005438,15/01/2000,15.00.00,1,Collision with vehicle,7,Saturday,135,LANE CHANGE LEFT (NOT OVERTAKING)              ,MEL,40,2C,H,6,1,Day,127641,2,5,0,1,0,4,2,5,Not at intersection,3,70
+12000005455,1/2/2000,07.00.00,1,Collision with vehicle,3,Tuesday,147,VEHICLE STRIKES ANOTHER VEH WHILE EMERGING FROM DRIVEWAY,MEL,40,42,H,12,1,Day,130266,2,3,0,1,0,2,1,5,Not at intersection,3,60
+12000005457,28/01/2000,11.05.00,1,Collision with vehicle,6,Friday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,2L,E,5,1,Day,37612,2,4,0,1,0,3,1,2,T intersection,3,60
+12000005463,30/01/2000,10.00.00,1,Collision with vehicle,1,Sunday,163,VEHICLE STRIKES DOOR OF PARKED/STATIONARY VEHICLE      ,MEL,40,2L,J,10,1,Day,81001,2,2,1,0,0,1,2,5,Not at intersection,2,60
+12000005465,27/01/2000,11.10.00,4,Collision with a fixed object,5,Thursday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE       ,MEL,40,93,G,11,1,Day,36173,1,1,0,1,0,0,1,1,Cross intersection,3,70
+12000005468,26/01/2000,11.50.00,1,Collision with vehicle,4,Wednesday,133,LANE SIDE SWIPE (VEHICLES IN PARALLEL LANES)        ,MEL,40,2B,K,4,1,Day,36416,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000005469,31/01/2000,11.10.00,1,Collision with vehicle,2,Monday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,68,A,10,1,Day,41291,2,2,0,1,0,1,1,2,T intersection,3,60
+12000005471,31/01/2000,20.20.00,1,Collision with vehicle,2,Monday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,92,K,9,1,Day,884,2,6,0,1,0,5,1,1,Cross intersection,3,60
+12000005485,27/01/2000,10.10.00,1,Collision with vehicle,5,Thursday,121,RIGHT THROUGH                        ,MEL,40,2P,D,1,1,Day,40091,2,3,1,0,0,2,1,1,Cross intersection,2,60
+12000005488,29/01/2000,18.52.00,1,Collision with vehicle,7,Saturday,121,RIGHT THROUGH                        ,MEL,40,31,A,11,1,Day,127624,3,4,0,1,0,3,1,5,Not at intersection,3,60
+12000005491,27/01/2000,11.47.00,2,Struck Pedestrian,5,Thursday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.      ,MEL,40,2L,A,6,1,Day,37592,1,3,0,2,0,1,1,1,Cross intersection,3,60
+12000005494,27/01/2000,07.20.00,1,Collision with vehicle,5,Thursday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,2H,E,8,1,Day,37310,2,2,0,1,0,1,1,2,T intersection,3,60
+12000005496,20/01/2000,16.25.00,1,Collision with vehicle,5,Thursday,121,RIGHT THROUGH                        ,MEL,40,2B,B,11,1,Day,29385,2,4,0,1,0,3,1,1,Cross intersection,3,60
+12000005498,27/01/2000,11.20.00,1,Collision with vehicle,5,Thursday,163,VEHICLE STRIKES DOOR OF PARKED/STATIONARY VEHICLE      ,MEL,40,2H,A,1,1,Day,37190,3,3,1,0,0,2,2,1,Cross intersection,2,60
+12000005502,21/01/2000,09.55.00,1,Collision with vehicle,6,Friday,137,LEFT TURN SIDESWIPE                     ,MEL,40,2B,C,2,1,Day,29386,3,3,0,1,0,2,1,1,Cross intersection,3,60
+12000005504,20/01/2000,11.45.00,1,Collision with vehicle,5,Thursday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,58,F,10,1,Day,40161,3,3,1,0,0,2,1,1,Cross intersection,2,60
+12000005507,22/01/2000,12.50.00,1,Collision with vehicle,7,Saturday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2P,D,3,1,Day,29887,2,5,0,3,0,2,1,4,Multiple intersection,3,60
+12000005508,15/01/2000,23.50.00,2,Struck Pedestrian,7,Saturday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT         ,MEL,40,2P,H,3,3,Dark Street lights on,57515,1,2,0,1,0,1,2,1,Cross intersection,3,60
+12000005531,19/01/2000,17.45.00,1,Collision with vehicle,4,Wednesday,135,LANE CHANGE LEFT (NOT OVERTAKING)              ,MEL,40,2P,C,8,1,Day,29590,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000005534,18/01/2000,14.05.00,2,Struck Pedestrian,3,Tuesday,108,PED STRUCK WALKING TO/FROM OR BOARDING/ALIGHTING VEHICLE.  ,MEL,40,2M,G,11,1,Day,37784,1,2,0,1,0,1,2,1,Cross intersection,3,60
+12000005542,23/01/2000,03.45.00,4,Collision with a fixed object,1,Sunday,183,OFF LEFT BEND INTO OBJECT/PARKED VEHICLE          ,MEL,40,2P,D,2,3,Dark Street lights on,127373,1,3,0,2,0,1,2,4,Multiple intersection,3,60
+12000005543,31/01/2000,20.45.00,8,No collision and no object struck,2,Monday,174,OUT OF CONTROL ON CARRIAGEWAY (ON STRAIGHT)         ,MEL,40,86,J,4,2,Dusk/Dawn,127372,1,1,1,0,0,0,2,5,Not at intersection,2,60
+12000005545,4/2/2000,01.00.00,1,Collision with vehicle,6,Friday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,59,B,12,3,Dark Street lights on,128409,2,2,0,0,1,1,1,5,Not at intersection,1,60
+12000005550,1/2/2000,17.40.00,1,Collision with vehicle,3,Tuesday,140,U TURN                           ,MEL,40,2B,B,9,1,Day,127765,2,2,0,1,0,1,2,5,Not at intersection,3,70
+12000005552,12/1/2000,18.30.00,1,Collision with vehicle,4,Wednesday,132,RIGHT REAR.                         ,MEL,40,86,A,6,1,Day,42697,2,3,0,1,0,2,2,2,T intersection,3,60
+12000005562,27/01/2000,11.30.00,1,Collision with vehicle,5,Thursday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,58,K,12,1,Day,40232,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000005567,24/01/2000,13.00.00,1,Collision with vehicle,2,Monday,147,VEHICLE STRIKES ANOTHER VEH WHILE EMERGING FROM DRIVEWAY,MEL,40,59,B,11,1,Day,40280,2,3,1,1,0,1,2,1,Cross intersection,2,60
+12000005575,13/01/2000,13.30.00,1,Collision with vehicle,5,Thursday,135,LANE CHANGE LEFT (NOT OVERTAKING)              ,MEL,40,59,A,1,1,Day,10635,2,3,0,1,0,2,1,5,Not at intersection,3,100
+12000005577,28/01/2000,11.20.00,1,Collision with vehicle,6,Friday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,58,K,10,1,Day,35506,2,2,1,0,0,1,1,1,Cross intersection,2,60
+12000005581,26/01/2000,03.05.00,1,Collision with vehicle,4,Wednesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,1B,L,1,3,Dark Street lights on,65743,2,6,0,1,0,5,1,1,Cross intersection,3,60
+12000005586,26/01/2000,18.20.00,1,Collision with vehicle,4,Wednesday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,2L,F,12,1,Day,37640,2,3,1,0,0,2,1,2,T intersection,2,60
+12000005732,25/01/2000,18.54.00,1,Collision with vehicle,3,Tuesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2G,F,9,2,Dusk/Dawn,76289,4,4,0,1,0,3,1,5,Not at intersection,3,60
+12000005750,14/01/2000,23.06.00,1,Collision with vehicle,6,Friday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,1D,L,6,3,Dark Street lights on,10630,3,6,0,4,0,2,1,5,Not at intersection,3,60
+12000005754,4/2/2000,19.30.00,1,Collision with vehicle,6,Friday,121,RIGHT THROUGH                        ,MEL,40,2M,C,7,1,Day,37743,2,4,0,1,0,3,1,2,T intersection,3,60
+12000005759,11/1/2000,15.40.00,1,Collision with vehicle,3,Tuesday,137,LEFT TURN SIDESWIPE                     ,MEL,40,1D,U,12,1,Day,36995,2,2,0,1,0,1,2,2,T intersection,3,60
+12000005788,17/01/2000,08.25.00,1,Collision with vehicle,2,Monday,136,RIGHT TURN SIDESWIPE                    ,MEL,40,2G,J,10,1,Day,37140,2,3,1,0,0,2,2,1,Cross intersection,2,60
+12000005808,5/2/2000,21.00.00,1,Collision with vehicle,7,Saturday,140,U TURN                           ,MEL,40,2G,K,12,3,Dark Street lights on,37188,2,4,0,1,0,3,1,2,T intersection,3,60
+12000005884,9/2/2000,17.35.00,1,Collision with vehicle,4,Wednesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,67,E,3,1,Day,667,2,2,0,1,0,1,1,4,Multiple intersection,3,80
+12000005889,7/2/2000,18.50.00,1,Collision with vehicle,2,Monday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,67,D,3,1,Day,41121,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000005898,8/2/2000,16.15.00,2,Struck Pedestrian,3,Tuesday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.      ,MEL,40,1B,L,7,1,Day,35360,1,2,0,1,0,1,1,1,Cross intersection,3,60
+12000005904,4/2/2000,12.05.00,1,Collision with vehicle,6,Friday,143,ENTERING PARKING                      ,MEL,40,1A,H,5,1,Day,127690,2,2,1,0,0,1,1,5,Not at intersection,2,60
+12000005905,4/2/2000,08.40.00,1,Collision with vehicle,6,Friday,121,RIGHT THROUGH                        ,MEL,40,1B,Q,2,1,Day,35362,2,2,0,1,0,1,1,2,T intersection,3,60
+12000005926,11/2/2000,08.45.00,1,Collision with vehicle,6,Friday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,2E,A,8,1,Day,36777,2,2,0,1,0,1,1,2,T intersection,3,60
+12000005940,7/2/2000,17.40.00,1,Collision with vehicle,2,Monday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,58,F,10,1,Day,127687,3,3,0,1,0,2,1,5,Not at intersection,3,60
+12000005947,20/01/2000,07.00.00,1,Collision with vehicle,5,Thursday,145,REVERSING IN STREAM OF TRAFFIC               ,MEL,40,68,A,2,1,Day,29639,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000005956,8/2/2000,13.25.00,2,Struck Pedestrian,3,Tuesday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT         ,MEL,40,2L,A,6,1,Day,80524,1,2,1,0,0,1,1,5,Not at intersection,2,60
+12000005959,12/2/2000,22.45.00,1,Collision with vehicle,7,Saturday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2P,H,3,3,Dark Street lights on,57515,2,3,0,3,0,0,1,1,Cross intersection,3,60
+12000005974,7/2/2000,08.45.00,1,Collision with vehicle,2,Monday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2P,F,9,1,Day,57527,2,2,1,0,0,1,1,1,Cross intersection,2,80
+12000005982,25/01/2000,19.15.00,1,Collision with vehicle,3,Tuesday,140,U TURN                           ,MEL,40,56,G,3,2,Dusk/Dawn,127329,2,5,0,2,0,3,2,5,Not at intersection,3,60
+12000006046,11/2/2000,18.39.00,1,Collision with vehicle,6,Friday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,87,D,9,1,Day,42816,2,2,0,1,0,1,1,2,T intersection,3,80
+12000006047,11/2/2000,06.10.00,4,Collision with a fixed object,6,Friday,173,RIGHT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE      ,MEL,40,93,C,8,2,Dusk/Dawn,127731,2,2,0,1,0,1,1,5,Not at intersection,3,60
+12000006180,27/01/2000,12.30.00,2,Struck Pedestrian,5,Thursday,108,PED STRUCK WALKING TO/FROM OR BOARDING/ALIGHTING VEHICLE.  ,MEL,40,59,B,8,1,Day,127331,1,2,0,1,0,1,2,5,Not at intersection,3,60
+12000006183,6/2/2000,11.20.00,1,Collision with vehicle,1,Sunday,120,HEAD ON (NOT OVERTAKING)                  ,MEL,40,59,B,9,1,Day,127826,2,3,0,1,0,2,1,5,Not at intersection,3,60
+12000006248,12/2/2000,06.10.00,4,Collision with a fixed object,7,Saturday,173,RIGHT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE      ,MEL,40,1B,T,8,1,Day,35367,1,1,1,0,0,0,1,1,Cross intersection,2,60
+12000006261,4/2/2000,12.00.00,1,Collision with vehicle,6,Friday,122,LEFT THROUGH                        ,MEL,40,2C,H,11,1,Day,127775,2,2,1,0,0,1,2,5,Not at intersection,2,70
+12000006267,5/2/2000,13.45.00,1,Collision with vehicle,7,Saturday,121,RIGHT THROUGH                        ,MEL,40,2L,G,9,1,Day,127774,2,2,1,0,0,1,2,5,Not at intersection,2,60
+12000006269,1/2/2000,11.40.00,1,Collision with vehicle,3,Tuesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2P,C,1,1,Day,40093,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000006271,5/2/2000,01.00.00,2,Struck Pedestrian,7,Saturday,108,PED STRUCK WALKING TO/FROM OR BOARDING/ALIGHTING VEHICLE.  ,MEL,40,59,E,7,3,Dark Street lights on,127770,1,2,1,0,0,1,1,5,Not at intersection,2,60
+12000006276,8/2/2000,15.15.00,1,Collision with vehicle,3,Tuesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,42,F,10,1,Day,127764,2,4,0,1,0,3,1,5,Not at intersection,3,60
+12000006289,3/2/2000,19.55.00,4,Collision with a fixed object,5,Thursday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE       ,MEL,40,2T,H,9,1,Day,127766,1,1,0,1,0,0,1,5,Not at intersection,3,60
+12000006293,7/1/2000,12.00.00,1,Collision with vehicle,6,Friday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2L,E,4,1,Day,127603,2,2,0,1,0,1,2,5,Not at intersection,3,60
+12000006308,10/2/2000,13.15.00,1,Collision with vehicle,5,Thursday,140,U TURN                           ,MEL,40,2B,C,8,1,Day,36225,2,2,0,1,0,1,2,2,T intersection,3,60
+12000006311,3/2/2000,18.00.00,1,Collision with vehicle,5,Thursday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2J,F,9,1,Day,127763,2,3,0,2,0,1,2,5,Not at intersection,3,60
+12000006314,11/2/2000,21.20.00,1,Collision with vehicle,6,Friday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,1B,V,5,3,Dark Street lights on,45921,3,4,0,1,0,3,1,2,T intersection,3,60
+12000006319,3/2/2000,09.25.00,1,Collision with vehicle,5,Thursday,132,RIGHT REAR.                         ,MEL,40,2C,B,12,1,Day,36514,3,3,0,1,0,2,2,1,Cross intersection,3,60
+12000006341,8/2/2000,20.50.00,4,Collision with a fixed object,3,Tuesday,173,RIGHT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE      ,MEL,40,2B,H,1,3,Dark Street lights on,127816,1,1,0,1,0,0,1,5,Not at intersection,3,60
+12000006344,5/2/2000,09.35.00,4,Collision with a fixed object,7,Saturday,173,RIGHT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE      ,MEL,40,30,F,12,1,Day,127820,1,3,3,0,0,0,1,5,Not at intersection,2,70
+12000006345,7/2/2000,08.10.00,1,Collision with vehicle,2,Monday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2L,A,6,1,Day,37592,2,2,0,2,0,0,1,1,Cross intersection,3,60
+12000006352,13/02/2000,11.40.00,1,Collision with vehicle,1,Sunday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2L,D,10,1,Day,37621,3,6,4,0,0,2,1,1,Cross intersection,2,60
+12000006356,8/1/2000,09.00.00,1,Collision with vehicle,7,Saturday,163,VEHICLE STRIKES DOOR OF PARKED/STATIONARY VEHICLE      ,MEL,40,59,B,8,1,Day,91381,2,3,1,0,0,2,2,5,Not at intersection,2,60
+12000006363,4/2/2000,22.45.00,1,Collision with vehicle,6,Friday,111,RIGHT FAR (INTERSECTIONS ONLY)               ,MEL,40,68,C,4,3,Dark Street lights on,41318,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000006367,14/02/2000,11.50.00,2,Struck Pedestrian,2,Monday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.      ,MEL,40,97,B,1,1,Day,127861,1,2,1,0,0,1,1,5,Not at intersection,2,60
+12000006371,14/02/2000,07.57.00,2,Struck Pedestrian,2,Monday,108,PED STRUCK WALKING TO/FROM OR BOARDING/ALIGHTING VEHICLE.  ,MEL,40,68,K,8,1,Day,41476,2,2,0,1,0,1,1,2,T intersection,3,60
+12000006375,15/02/2000,18.25.00,1,Collision with vehicle,3,Tuesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2B,G,4,1,Day,36335,2,3,0,1,0,2,2,1,Cross intersection,3,60
+12000006391,3/2/2000,11.30.00,1,Collision with vehicle,5,Thursday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2G,F,12,1,Day,127815,3,5,0,1,0,4,1,5,Not at intersection,3,60
+12000006392,11/2/2000,08.05.00,2,Struck Pedestrian,6,Friday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT         ,MEL,40,2K,B,2,1,Day,37507,1,2,0,1,0,1,1,1,Cross intersection,3,60
+12000006399,12/2/2000,10.25.00,4,Collision with a fixed object,7,Saturday,173,RIGHT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE      ,MEL,40,59,E,4,1,Day,10735,2,2,0,1,0,1,1,5,Not at intersection,3,100
+12000006402,12/2/2000,15.07.00,1,Collision with vehicle,7,Saturday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,77,F,9,1,Day,42197,2,3,0,1,0,2,1,1,Cross intersection,3,80
+12000006405,12/2/2000,00.04.00,1,Collision with vehicle,7,Saturday,140,U TURN                           ,MEL,40,2B,K,9,4,Dark Street lights off,127851,2,6,1,0,0,5,1,5,Not at intersection,2,60
+12000006411,14/02/2000,16.30.00,1,Collision with vehicle,2,Monday,140,U TURN                           ,MEL,40,1C,J,10,1,Day,36879,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000006421,12/2/2000,07.05.00,4,Collision with a fixed object,7,Saturday,173,RIGHT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE      ,MEL,40,59,E,7,1,Day,127853,1,1,0,1,0,0,1,5,Not at intersection,3,60
+12000006422,7/2/2000,10.40.00,1,Collision with vehicle,2,Monday,133,LANE SIDE SWIPE (VEHICLES IN PARALLEL LANES)        ,MEL,40,69,A,1,1,Day,127856,2,4,0,1,0,3,2,5,Not at intersection,3,100
+12000006423,14/02/2000,09.00.00,1,Collision with vehicle,2,Monday,132,RIGHT REAR.                         ,MEL,40,87,J,7,1,Day,70625,2,5,0,5,0,0,1,2,T intersection,3,60
+12000006430,8/2/2000,15.00.00,1,Collision with vehicle,3,Tuesday,140,U TURN                           ,MEL,40,58,F,11,1,Day,127858,2,3,0,2,0,1,2,5,Not at intersection,3,60
+12000006435,5/2/2000,23.40.00,1,Collision with vehicle,7,Saturday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2L,E,5,3,Dark Street lights on,37610,3,3,1,0,0,2,2,1,Cross intersection,2,60
+12000006521,10/2/2000,07.29.00,1,Collision with vehicle,5,Thursday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2J,H,3,1,Day,37447,2,2,1,0,0,1,1,1,Cross intersection,2,60
+12000006523,17/02/2000,00.45.00,1,Collision with vehicle,5,Thursday,121,RIGHT THROUGH                        ,MEL,40,2L,E,5,3,Dark Street lights on,37610,2,4,2,0,0,2,1,1,Cross intersection,2,60
+12000006609,6/2/2000,09.00.00,1,Collision with vehicle,1,Sunday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,1D,V,5,1,Day,127729,2,2,1,0,0,1,1,5,Not at intersection,2,60
+12000006613,7/2/2000,16.10.00,2,Struck Pedestrian,2,Monday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.      ,MEL,40,87,G,11,1,Day,42841,1,2,0,1,0,1,1,1,Cross intersection,3,60
+12000006614,7/2/2000,11.25.00,2,Struck Pedestrian,2,Monday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.      ,MEL,40,67,K,8,1,Day,41261,1,2,0,1,0,1,2,1,Cross intersection,3,60
+12000006622,23/01/2000,12.00.00,1,Collision with vehicle,1,Sunday,131,LEFT REAR                          ,MEL,40,92,K,9,1,Day,43214,2,4,0,1,0,3,2,2,T intersection,3,60
+12000006626,9/1/2000,23.50.00,8,No collision and no object struck,1,Sunday,174,OUT OF CONTROL ON CARRIAGEWAY (ON STRAIGHT)         ,MEL,40,1B,N,6,3,Dark Street lights on,231,1,1,0,1,0,0,1,1,Cross intersection,3,999
+12000006629,2/2/2000,10.10.00,1,Collision with vehicle,4,Wednesday,136,RIGHT TURN SIDESWIPE                    ,MEL,40,76,G,10,1,Day,45933,2,4,1,0,0,3,1,2,T intersection,2,60
+12000006634,15/02/2000,18.00.00,1,Collision with vehicle,3,Tuesday,137,LEFT TURN SIDESWIPE                     ,MEL,40,2B,J,6,1,Day,36398,2,2,0,1,0,1,2,2,T intersection,3,60
+12000006638,8/2/2000,09.00.00,1,Collision with vehicle,3,Tuesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,77,G,3,1,Day,130265,3,3,0,1,0,2,1,5,Not at intersection,3,60
+12000006642,15/02/2000,08.10.00,1,Collision with vehicle,3,Tuesday,163,VEHICLE STRIKES DOOR OF PARKED/STATIONARY VEHICLE      ,MEL,40,2G,K,6,1,Day,127720,2,3,0,1,0,2,1,5,Not at intersection,3,60
+12000006644,10/2/2000,14.30.00,1,Collision with vehicle,5,Thursday,121,RIGHT THROUGH                        ,MEL,40,2B,G,6,1,Day,109,2,3,0,2,0,1,1,1,Cross intersection,3,60
+12000006647,7/2/2000,07.15.00,2,Struck Pedestrian,2,Monday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT         ,MEL,40,69,B,2,1,Day,45915,1,2,1,0,0,1,1,2,T intersection,2,60
+12000006649,9/2/2000,23.05.00,1,Collision with vehicle,4,Wednesday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,59,A,4,3,Dark Street lights on,40238,2,3,1,2,0,0,1,2,T intersection,2,60
+12000006651,9/2/2000,18.15.00,1,Collision with vehicle,4,Wednesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2K,F,1,1,Day,37570,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000006653,4/2/2000,07.00.00,1,Collision with vehicle,6,Friday,152,PULLING OUT (OVERTAKING)                  ,MEL,40,2K,G,1,1,Day,366,2,2,1,0,0,1,1,2,T intersection,2,60
+12000006657,6/2/2000,03.07.00,2,Struck Pedestrian,1,Sunday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.      ,MEL,40,2K,F,1,3,Dark Street lights on,29460,1,2,0,1,0,1,1,1,Cross intersection,3,70
+12000006661,2/2/2000,23.00.00,1,Collision with vehicle,4,Wednesday,121,RIGHT THROUGH                        ,MEL,40,2B,E,11,3,Dark Street lights on,36264,2,4,0,1,0,3,1,1,Cross intersection,3,60
+12000006669,6/2/2000,18.20.00,1,Collision with vehicle,1,Sunday,160,VEHICLE COLLIDES WITH VEHICLE PARKED ON LEFT OF ROAD    ,MEL,40,2L,D,2,1,Day,37605,3,1,0,1,0,0,1,2,T intersection,3,60
+12000006700,8/2/2000,18.15.00,1,Collision with vehicle,3,Tuesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,68,A,4,1,Day,41275,2,3,0,1,0,2,2,1,Cross intersection,3,60
+12000006703,6/2/2000,13.45.00,1,Collision with vehicle,1,Sunday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2L,J,9,1,Day,37697,2,3,0,2,0,1,2,2,T intersection,3,60
+12000006705,12/2/2000,08.10.00,8,No collision and no object struck,7,Saturday,174,OUT OF CONTROL ON CARRIAGEWAY (ON STRAIGHT)         ,MEL,40,2G,F,9,1,Day,76715,1,1,1,0,0,0,1,5,Not at intersection,2,60
+12000006706,9/2/2000,16.00.00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2C,K,2,1,Day,36705,2,2,0,1,0,1,2,2,T intersection,3,60
+12000006713,7/2/2000,18.15.00,1,Collision with vehicle,2,Monday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2M,A,6,1,Day,37730,2,2,0,1,0,1,2,2,T intersection,3,60
+12000006714,10/2/2000,08.20.00,1,Collision with vehicle,5,Thursday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,67,G,7,1,Day,41200,2,3,0,1,0,2,1,1,Cross intersection,3,60
+12000006716,2/1/2000,20.20.00,1,Collision with vehicle,1,Sunday,142,LEAVING PARKING                       ,MEL,40,2P,F,9,2,Dusk/Dawn,127636,2,3,0,1,0,2,2,5,Not at intersection,3,60
+12000006722,17/02/2000,08.55.00,1,Collision with vehicle,5,Thursday,148,VEHICLE OFF FOOTPATH STRIKES VEH ON CARRIAGEWAY,MEL,40,67,G,3,1,Day,41194,2,2,1,0,0,1,1,2,T intersection,2,60
+12000006723,2/2/2000,15.10.00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2C,A,7,1,Day,36458,2,3,0,1,0,2,2,2,T intersection,3,60
+12000006725,17/02/2000,14.55.00,1,Collision with vehicle,5,Thursday,121,RIGHT THROUGH                        ,MEL,40,2K,F,1,1,Day,29460,2,2,1,0,0,1,1,2,T intersection,2,60
+12000006745,3/2/2000,17.50.00,1,Collision with vehicle,5,Thursday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,68,A,10,1,Day,41292,3,6,0,1,0,5,1,2,T intersection,3,60
+12000006747,11/2/2000,00.50.00,1,Collision with vehicle,6,Friday,160,VEHICLE COLLIDES WITH VEHICLE PARKED ON LEFT OF ROAD    ,MEL,40,68,A,7,3,Dark Street lights on,127718,2,1,0,1,0,0,1,5,Not at intersection,3,60
+12000006752,10/2/2000,18.15.00,1,Collision with vehicle,5,Thursday,148,VEHICLE OFF FOOTPATH STRIKES VEH ON CARRIAGEWAY,MEL,40,97,C,3,1,Day,43305,2,3,0,1,0,2,2,2,T intersection,3,60
+12000006767,19/01/2000,09.00.00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2K,B,12,1,Day,130173,2,2,0,1,0,1,2,5,Not at intersection,3,60
+12000006773,12/2/2000,15.00.00,1,Collision with vehicle,7,Saturday,162,ACCIDENT OR BROKEN DOWN                   ,MEL,40,87,A,5,1,Day,127712,2,4,0,3,0,1,2,5,Not at intersection,3,80
+12000006816,15/02/2000,17.50.00,1,Collision with vehicle,3,Tuesday,136,RIGHT TURN SIDESWIPE                    ,MEL,40,2L,J,11,1,Day,35413,2,3,2,1,0,0,1,2,T intersection,2,60
+12000006822,18/02/2000,20.10.00,8,No collision and no object struck,6,Friday,174,OUT OF CONTROL ON CARRIAGEWAY (ON STRAIGHT)         ,MEL,40,1C,K,12,3,Dark Street lights on,36909,1,1,0,1,0,0,1,1,Cross intersection,3,60
+12000006870,13/02/2000,23.05.00,1,Collision with vehicle,1,Sunday,160,VEHICLE COLLIDES WITH VEHICLE PARKED ON LEFT OF ROAD    ,MEL,40,58,F,8,3,Dark Street lights on,127699,3,4,0,2,0,2,1,5,Not at intersection,3,70
+12000006880,20/02/2000,18.45.00,1,Collision with vehicle,1,Sunday,140,U TURN                           ,MEL,40,59,A,10,1,Day,40250,2,4,2,0,0,2,1,2,T intersection,2,70
+12000006906,20/02/2000,19.00.00,1,Collision with vehicle,1,Sunday,121,RIGHT THROUGH                        ,MEL,40,2L,C,11,1,Day,35408,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000006974,22/02/2000,15.30.00,1,Collision with vehicle,3,Tuesday,111,RIGHT FAR (INTERSECTIONS ONLY)               ,MEL,40,59,C,4,1,Day,40292,2,3,0,1,0,2,1,1,Cross intersection,3,60
+12000006979,3/2/2000,17.30.00,1,Collision with vehicle,5,Thursday,132,RIGHT REAR.                         ,MEL,40,2B,G,4,1,Day,36335,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000006980,16/02/2000,22.40.00,1,Collision with vehicle,4,Wednesday,163,VEHICLE STRIKES DOOR OF PARKED/STATIONARY VEHICLE      ,MEL,40,2G,D,1,3,Dark Street lights on,36576,2,2,0,1,0,1,2,2,T intersection,3,60
+12000006981,20/02/2000,12.35.00,2,Struck Pedestrian,1,Sunday,101,PED EMERGES FROM IN FRONT OF PARKED OR STATIONARY VEHICLE  ,MEL,40,2C,D,9,1,Day,127859,1,2,0,1,0,1,1,5,Not at intersection,3,60
+12000006982,17/02/2000,07.45.00,2,Struck Pedestrian,5,Thursday,104,PED WALKING WITH TRAFFIC                  ,MEL,40,2B,E,8,1,Day,90,1,2,0,1,0,1,1,1,Cross intersection,3,60
+12000006983,18/02/2000,17.45.00,1,Collision with vehicle,6,Friday,134,LANE CHANGE RIGHT (NOT OVERTAKING)             ,MEL,40,2C,E,7,1,Day,36592,2,2,1,0,0,1,2,2,T intersection,2,60
+12000006984,15/02/2000,10.25.00,1,Collision with vehicle,3,Tuesday,121,RIGHT THROUGH                        ,MEL,40,86,H,5,1,Day,42741,2,2,1,0,0,1,1,1,Cross intersection,2,60
+12000006985,2/2/2000,16.50.00,1,Collision with vehicle,4,Wednesday,152,PULLING OUT (OVERTAKING)                  ,MEL,40,87,G,10,1,Day,45900,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000006989,16/02/2000,08.00.00,1,Collision with vehicle,4,Wednesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,29,K,11,1,Day,36044,2,2,0,1,0,1,2,1,Cross intersection,3,50
+12000006991,16/02/2000,12.25.00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,85,K,4,1,Day,42693,2,3,0,1,0,2,1,2,T intersection,3,60
+12000006994,17/02/2000,20.20.00,1,Collision with vehicle,5,Thursday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2C,G,2,2,Dusk/Dawn,35340,2,2,1,0,0,1,1,1,Cross intersection,2,60
+12000006995,16/02/2000,23.05.00,1,Collision with vehicle,4,Wednesday,121,RIGHT THROUGH                        ,MEL,40,2E,H,12,3,Dark Street lights on,36813,2,5,3,1,0,1,1,1,Cross intersection,2,60
+12000006999,16/02/2000,05.55.00,1,Collision with vehicle,4,Wednesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2F,H,12,3,Dark Street lights on,36981,2,2,0,2,0,0,1,1,Cross intersection,3,60
+12000007001,14/02/2000,16.55.00,1,Collision with vehicle,2,Monday,147,VEHICLE STRIKES ANOTHER VEH WHILE EMERGING FROM DRIVEWAY,MEL,40,67,F,3,1,Day,127823,2,2,0,1,0,1,1,5,Not at intersection,3,60
+12000007002,4/2/2000,13.30.00,1,Collision with vehicle,6,Friday,137,LEFT TURN SIDESWIPE                     ,MEL,40,69,D,4,1,Day,125901,2,2,0,1,0,1,2,5,Not at intersection,3,60
+12000007005,16/02/2000,08.30.00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,87,G,3,1,Day,101368,5,5,1,1,0,3,1,5,Not at intersection,2,70
+12000007009,15/02/2000,16.25.00,1,Collision with vehicle,3,Tuesday,135,LANE CHANGE LEFT (NOT OVERTAKING)              ,MEL,40,2G,F,12,1,Day,10724,2,2,0,1,0,1,1,5,Not at intersection,3,80
+12000007014,16/02/2000,18.54.00,1,Collision with vehicle,4,Wednesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2G,B,5,1,Day,35371,4,6,0,1,0,5,1,1,Cross intersection,3,60
+12000007016,14/02/2000,18.10.00,1,Collision with vehicle,2,Monday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2B,D,10,1,Day,57448,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000007018,8/2/2000,17.50.00,1,Collision with vehicle,3,Tuesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2C,E,7,1,Day,45927,2,2,1,0,0,1,1,1,Cross intersection,2,60
+12000007020,18/02/2000,15.50.00,1,Collision with vehicle,6,Friday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,67,J,8,1,Day,127706,2,2,0,1,0,1,1,5,Not at intersection,3,70
+12000007021,18/02/2000,08.25.00,1,Collision with vehicle,6,Friday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,1B,Q,9,1,Day,35366,2,3,0,2,0,1,2,1,Cross intersection,3,60
+12000007022,11/2/2000,13.30.00,1,Collision with vehicle,6,Friday,134,LANE CHANGE RIGHT (NOT OVERTAKING)             ,MEL,40,2B,B,6,1,Day,5235,2,2,0,1,0,1,1,5,Not at intersection,3,60
+12000007025,17/02/2000,16.50.00,1,Collision with vehicle,5,Thursday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2K,J,4,1,Day,127705,3,3,0,1,0,2,2,5,Not at intersection,3,60
+12000007026,10/2/2000,20.20.00,1,Collision with vehicle,5,Thursday,121,RIGHT THROUGH                        ,MEL,40,1A,F,10,1,Day,29420,2,3,0,1,0,2,1,1,Cross intersection,3,60
+12000007027,16/02/2000,18.00.00,1,Collision with vehicle,4,Wednesday,140,U TURN                           ,MEL,40,2P,B,1,1,Day,127703,2,4,0,1,0,3,2,5,Not at intersection,3,60
+12000007028,14/02/2000,16.44.00,1,Collision with vehicle,2,Monday,163,VEHICLE STRIKES DOOR OF PARKED/STATIONARY VEHICLE      ,MEL,40,2C,B,5,1,Day,127772,2,2,0,1,0,1,1,5,Not at intersection,3,60
+12000007031,16/02/2000,18.30.00,1,Collision with vehicle,4,Wednesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,76,G,3,1,Day,127702,2,3,0,2,0,1,2,1,Cross intersection,3,60
+12000007033,13/02/2000,00.15.00,4,Collision with a fixed object,1,Sunday,173,RIGHT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE      ,MEL,40,59,K,12,3,Dark Street lights on,45905,1,2,1,0,0,1,1,2,T intersection,2,60
+12000007038,13/02/2000,11.00.00,1,Collision with vehicle,1,Sunday,121,RIGHT THROUGH                        ,MEL,40,59,H,7,1,Day,35514,2,5,0,3,0,2,1,1,Cross intersection,3,60
+12000007039,11/2/2000,18.20.00,1,Collision with vehicle,6,Friday,121,RIGHT THROUGH                        ,MEL,40,60,A,12,1,Day,40479,3,7,2,2,0,3,1,2,T intersection,2,60
+12000007046,18/02/2000,17.35.00,1,Collision with vehicle,6,Friday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2G,E,1,1,Day,1592,2,2,0,1,0,1,1,5,Not at intersection,3,60
+12000007047,17/02/2000,11.15.00,1,Collision with vehicle,5,Thursday,140,U TURN                           ,MEL,40,2B,B,7,1,Day,5237,2,3,2,0,0,1,1,1,Cross intersection,2,60
+12000007049,17/02/2000,09.05.00,1,Collision with vehicle,5,Thursday,121,RIGHT THROUGH                        ,MEL,40,1A,A,6,1,Day,36837,2,2,1,0,0,1,1,2,T intersection,2,60
+12000007051,17/02/2000,17.45.00,1,Collision with vehicle,5,Thursday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2K,A,9,1,Day,37503,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000007052,20/02/2000,10.20.00,1,Collision with vehicle,1,Sunday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,78,H,7,1,Day,42352,2,2,1,0,0,1,1,1,Cross intersection,2,60
+12000007053,13/02/2000,15.15.00,1,Collision with vehicle,1,Sunday,140,U TURN                           ,MEL,40,2P,G,3,1,Day,127863,2,2,0,1,0,1,1,5,Not at intersection,3,50
+12000007054,20/02/2000,13.44.00,1,Collision with vehicle,1,Sunday,147,VEHICLE STRIKES ANOTHER VEH WHILE EMERGING FROM DRIVEWAY,MEL,40,2P,D,5,1,Day,127864,2,3,0,2,0,1,1,5,Not at intersection,3,60
+12000007055,22/02/2000,10.15.00,2,Struck Pedestrian,3,Tuesday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.      ,MEL,40,2L,D,11,1,Day,29466,1,2,1,0,0,1,1,1,Cross intersection,2,60
+12000007056,21/02/2000,18.15.00,1,Collision with vehicle,2,Monday,134,LANE CHANGE RIGHT (NOT OVERTAKING)             ,MEL,40,2P,C,3,1,Day,40096,2,2,1,0,0,1,1,1,Cross intersection,2,60
+12000007059,14/02/2000,15.45.00,1,Collision with vehicle,2,Monday,140,U TURN                           ,MEL,40,2C,F,7,1,Day,127844,2,2,0,1,0,1,1,5,Not at intersection,3,60
+12000007062,13/02/2000,13.05.00,4,Collision with a fixed object,1,Sunday,173,RIGHT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE      ,MEL,40,2C,H,7,1,Day,36694,1,4,2,2,0,0,1,2,T intersection,2,70
+12000007068,15/02/2000,16.00.00,2,Struck Pedestrian,3,Tuesday,105,PED WALKING AGAINST TRAFFIC.                ,MEL,40,85,J,1,1,Day,127797,1,2,0,1,0,1,1,5,Not at intersection,3,60
+12000007072,15/02/2000,19.10.00,2,Struck Pedestrian,3,Tuesday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.      ,MEL,40,97,C,4,1,Day,35634,1,2,0,2,0,0,1,2,T intersection,3,60
+12000007079,16/02/2000,14.05.00,4,Collision with a fixed object,4,Wednesday,173,RIGHT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE      ,MEL,40,67,B,3,1,Day,41089,1,1,0,1,0,0,1,1,Cross intersection,3,60
+12000007084,15/02/2000,11.15.00,1,Collision with vehicle,3,Tuesday,131,LEFT REAR                          ,MEL,40,58,G,7,1,Day,29600,2,4,0,1,0,3,2,1,Cross intersection,3,60
+12000007086,16/01/2000,18.00.00,1,Collision with vehicle,1,Sunday,147,VEHICLE STRIKES ANOTHER VEH WHILE EMERGING FROM DRIVEWAY,MEL,40,2M,C,10,1,Day,37748,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000007098,11/2/2000,23.55.00,2,Struck Pedestrian,6,Friday,101,PED EMERGES FROM IN FRONT OF PARKED OR STATIONARY VEHICLE  ,MEL,40,59,A,7,3,Dark Street lights on,585,1,3,0,1,0,2,1,2,T intersection,3,60
+12000007105,16/02/2000,10.55.00,1,Collision with vehicle,4,Wednesday,114,TWO RIGHT TURNING (INTERSECTIONS ONLY)           ,MEL,40,2H,E,5,1,Day,37302,2,2,0,1,0,1,2,2,T intersection,3,60
+12000007106,16/02/2000,09.36.00,5,collision with some other object,4,Wednesday,191,LOAD OR MISSILE STRUCK VEHICLE               ,MEL,40,77,F,9,1,Day,127800,2,4,0,1,0,3,1,5,Not at intersection,3,80
+12000007114,9/2/2000,23.50.00,1,Collision with vehicle,4,Wednesday,121,RIGHT THROUGH                        ,MEL,40,2G,H,1,3,Dark Street lights on,37052,2,3,1,2,0,0,1,1,Cross intersection,2,70
+12000007118,9/2/2000,14.00.00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2E,G,10,1,Day,127890,2,2,0,1,0,1,1,5,Not at intersection,3,100
+12000007122,16/02/2000,13.20.00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,86,K,3,1,Day,127889,2,4,0,1,0,3,1,5,Not at intersection,3,80
+12000007150,23/02/2000,15.20.00,1,Collision with vehicle,4,Wednesday,140,U TURN                           ,MEL,40,29,J,11,1,Day,127876,2,2,1,0,0,1,1,5,Not at intersection,2,60
+12000007152,11/2/2000,07.55.00,1,Collision with vehicle,6,Friday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,69,D,2,1,Day,699,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000007155,17/02/2000,18.10.00,4,Collision with a fixed object,5,Thursday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE       ,MEL,40,59,B,12,1,Day,40282,1,3,0,1,0,2,1,1,Cross intersection,3,60
+12000007157,18/02/2000,07.45.00,1,Collision with vehicle,6,Friday,121,RIGHT THROUGH                        ,MEL,40,68,C,2,1,Day,41313,2,3,0,1,0,2,2,1,Cross intersection,3,60
+12000007158,17/02/2000,08.00.00,1,Collision with vehicle,5,Thursday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2C,J,1,1,Day,127862,3,3,0,1,0,2,2,5,Not at intersection,3,60
+12000007164,22/02/2000,03.30.00,4,Collision with a fixed object,3,Tuesday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE       ,MEL,40,68,C,12,3,Dark Street lights on,41322,1,2,2,0,0,0,1,1,Cross intersection,2,60
+12000007202,21/02/2000,10.00.00,1,Collision with vehicle,2,Monday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2B,F,12,1,Day,35319,2,3,0,1,0,2,1,1,Cross intersection,3,60
+12000007207,20/02/2000,12.25.00,2,Struck Pedestrian,1,Sunday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.      ,MEL,40,1A,H,3,1,Day,127827,1,2,0,1,0,1,2,5,Not at intersection,3,60
+12000007212,18/02/2000,15.15.00,1,Collision with vehicle,6,Friday,148,VEHICLE OFF FOOTPATH STRIKES VEH ON CARRIAGEWAY,MEL,40,92,J,6,1,Day,127833,2,4,0,1,0,3,1,5,Not at intersection,3,60
+12000007224,20/02/2000,16.25.00,1,Collision with vehicle,1,Sunday,135,LANE CHANGE LEFT (NOT OVERTAKING)              ,MEL,40,2F,K,8,1,Day,127828,2,3,0,1,0,2,1,5,Not at intersection,3,60
+12000007229,17/02/2000,10.22.00,1,Collision with vehicle,5,Thursday,163,VEHICLE STRIKES DOOR OF PARKED/STATIONARY VEHICLE      ,MEL,40,1A,A,6,1,Day,127829,2,2,0,1,0,1,1,5,Not at intersection,3,60
+12000007262,20/02/2000,15.00.00,1,Collision with vehicle,1,Sunday,140,U TURN                           ,MEL,40,92,J,6,1,Day,43193,2,6,2,4,0,0,1,2,T intersection,2,60
+12000007270,17/02/2000,18.15.00,4,Collision with a fixed object,5,Thursday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE       ,MEL,40,87,B,7,1,Day,127819,1,1,0,1,0,0,1,5,Not at intersection,3,60
+12000007271,18/02/2000,17.00.00,1,Collision with vehicle,6,Friday,140,U TURN                           ,MEL,40,77,F,5,1,Day,42193,2,2,0,1,0,1,1,2,T intersection,3,70
+12000007274,21/02/2000,09.45.00,1,Collision with vehicle,2,Monday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,59,A,12,1,Day,35509,4,5,0,2,0,3,1,1,Cross intersection,3,60
+12000007279,22/02/2000,10.00.00,1,Collision with vehicle,3,Tuesday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,2E,B,1,1,Day,47498,2,2,0,2,0,0,1,4,Multiple intersection,3,70
+12000007280,19/02/2000,08.45.00,1,Collision with vehicle,7,Saturday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,79,B,3,1,Day,42409,2,2,0,1,0,1,1,2,T intersection,3,60
+12000007304,10/1/2000,20.10.00,2,Struck Pedestrian,2,Monday,107,PED ON FOOTHPATH STRUCK BY VEHENTERING/LEAVING DRIVEWAY.  ,MEL,40,58,F,11,1,Day,127325,1,2,0,1,0,1,2,5,Not at intersection,3,60
+12000007317,22/02/2000,21.25.00,1,Collision with vehicle,3,Tuesday,140,U TURN                           ,MEL,40,2C,A,7,3,Dark Street lights on,36459,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000007390,26/02/2000,12.40.00,1,Collision with vehicle,7,Saturday,121,RIGHT THROUGH                        ,MEL,40,59,A,11,1,Day,45966,3,4,0,1,0,3,1,2,T intersection,3,60
+12000007393,26/02/2000,07.56.00,1,Collision with vehicle,7,Saturday,145,REVERSING IN STREAM OF TRAFFIC               ,MEL,40,69,A,2,1,Day,95706,2,3,1,1,0,1,1,5,Not at intersection,2,60
+12000007396,25/02/2000,18.45.00,1,Collision with vehicle,6,Friday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2P,D,1,1,Day,40091,2,3,1,0,0,2,1,1,Cross intersection,2,60
+12000007400,24/02/2000,22.20.00,1,Collision with vehicle,5,Thursday,121,RIGHT THROUGH                        ,MEL,40,2P,D,3,6,Dark Street lights unknown,10381,2,3,0,1,0,2,1,1,Cross intersection,3,60
+12000007404,23/02/2000,13.20.00,1,Collision with vehicle,4,Wednesday,116,LEFT NEAR (INTERSECTIONS ONLY)               ,MEL,40,2M,G,8,1,Day,45967,2,3,0,1,0,2,1,2,T intersection,3,60
+12000007406,23/02/2000,08.05.00,4,Collision with a fixed object,4,Wednesday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE       ,MEL,40,59,C,9,1,Day,45957,1,2,1,1,0,0,1,2,T intersection,2,60
+12000007580,28/02/2000,19.10.00,2,Struck Pedestrian,2,Monday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT         ,MEL,40,68,H,11,1,Day,41425,1,2,0,1,0,1,1,2,T intersection,3,60
+12000007734,25/02/2000,16.10.00,2,Struck Pedestrian,6,Friday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT         ,MEL,40,58,H,9,1,Day,127895,1,2,1,0,0,1,1,5,Not at intersection,2,60
+12000007749,26/02/2000,00.10.00,4,Collision with a fixed object,7,Saturday,173,RIGHT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE      ,MEL,40,1A,F,10,3,Dark Street lights on,29420,1,2,2,0,0,0,1,1,Cross intersection,2,60
+12000007752,27/02/2000,19.30.00,1,Collision with vehicle,1,Sunday,132,RIGHT REAR.                         ,MEL,40,2J,C,7,1,Day,37401,2,5,0,1,0,4,1,2,T intersection,3,60
+12000007754,18/02/2000,09.20.00,1,Collision with vehicle,6,Friday,153,CUTTING IN (OVERTAKING)                   ,MEL,40,67,D,6,1,Day,41133,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000007760,24/02/2000,19.45.00,2,Struck Pedestrian,5,Thursday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT         ,MEL,40,2P,A,5,1,Day,127915,1,2,0,1,0,1,1,5,Not at intersection,3,60
+12000007761,28/02/2000,17.20.00,1,Collision with vehicle,2,Monday,121,RIGHT THROUGH                        ,MEL,40,58,F,9,1,Day,40159,2,3,1,0,0,2,1,1,Cross intersection,2,60
+12000007762,28/02/2000,08.50.00,1,Collision with vehicle,2,Monday,121,RIGHT THROUGH                        ,MEL,40,2P,C,1,1,Day,35494,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000007763,15/02/2000,09.30.00,1,Collision with vehicle,3,Tuesday,131,LEFT REAR                          ,MEL,40,87,K,11,1,Day,42855,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000007769,24/02/2000,18.20.00,1,Collision with vehicle,5,Thursday,169,OTHER ON PATH                        ,MEL,40,2N,K,5,1,Day,127955,3,1,1,0,0,0,1,5,Not at intersection,2,60
+12000007770,24/02/2000,08.45.00,1,Collision with vehicle,5,Thursday,137,LEFT TURN SIDESWIPE                     ,MEL,40,2K,F,11,1,Day,37575,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000007773,22/01/2000,15.15.00,1,Collision with vehicle,7,Saturday,131,LEFT REAR                          ,MEL,40,97,D,9,1,Day,29727,2,3,0,1,0,2,2,2,T intersection,3,60
+12000007798,20/02/2000,22.10.00,1,Collision with vehicle,1,Sunday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2A,H,11,3,Dark Street lights on,29377,3,4,1,0,0,3,1,1,Cross intersection,2,60
+12000007817,20/02/2000,21.00.00,1,Collision with vehicle,1,Sunday,111,RIGHT FAR (INTERSECTIONS ONLY)               ,MEL,40,1D,V,7,3,Dark Street lights on,29387,2,4,0,1,0,3,2,1,Cross intersection,3,60
+12000007820,22/02/2000,17.45.00,1,Collision with vehicle,3,Tuesday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,2C,F,7,1,Day,45952,2,3,0,1,0,2,2,2,T intersection,3,60
+12000007826,23/02/2000,16.54.00,1,Collision with vehicle,4,Wednesday,134,LANE CHANGE RIGHT (NOT OVERTAKING)             ,MEL,40,59,K,11,1,Day,127806,2,2,1,0,0,1,1,5,Not at intersection,2,100
+12000007832,23/02/2000,16.07.00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,2G,F,10,1,Day,127951,3,5,0,1,0,4,1,5,Not at intersection,3,60
+12000007834,22/02/2000,18.55.00,1,Collision with vehicle,3,Tuesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2A,F,9,1,Day,36085,2,2,1,0,0,1,1,1,Cross intersection,2,60
+12000007837,17/02/2000,16.05.00,1,Collision with vehicle,5,Thursday,163,VEHICLE STRIKES DOOR OF PARKED/STATIONARY VEHICLE      ,MEL,40,2G,G,5,1,Day,37060,2,2,0,1,0,1,1,2,T intersection,3,60
+12000007839,17/02/2000,17.16.00,1,Collision with vehicle,5,Thursday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2C,E,11,1,Day,36605,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000007842,22/02/2000,16.10.00,1,Collision with vehicle,3,Tuesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2P,H,11,1,Day,40142,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000007850,22/02/2000,17.45.00,1,Collision with vehicle,3,Tuesday,134,LANE CHANGE RIGHT (NOT OVERTAKING)             ,MEL,40,88,F,6,1,Day,127949,2,2,1,0,0,1,1,5,Not at intersection,2,60
+12000007856,15/02/2000,07.00.00,1,Collision with vehicle,3,Tuesday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,2P,H,2,1,Day,36166,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000007857,22/02/2000,16.05.00,1,Collision with vehicle,3,Tuesday,133,LANE SIDE SWIPE (VEHICLES IN PARALLEL LANES)        ,MEL,40,2G,F,9,1,Day,76716,2,2,0,1,0,1,1,5,Not at intersection,3,60
+12000007862,21/02/2000,11.30.00,1,Collision with vehicle,2,Monday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,2M,E,10,1,Day,391,2,3,1,0,0,2,2,2,T intersection,2,60
+12000007865,22/02/2000,09.00.00,2,Struck Pedestrian,3,Tuesday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.      ,MEL,40,1A,F,3,1,Day,205,1,2,0,1,0,1,1,1,Cross intersection,3,60
+12000007869,29/02/2000,16.55.00,1,Collision with vehicle,3,Tuesday,137,LEFT TURN SIDESWIPE                     ,MEL,40,92,F,1,1,Day,35626,2,3,0,1,0,2,2,1,Cross intersection,3,60
+12000007870,22/02/2000,17.25.00,1,Collision with vehicle,3,Tuesday,131,LEFT REAR                          ,MEL,40,1B,T,5,1,Day,36967,4,7,0,2,0,5,1,1,Cross intersection,3,60
+12000007877,23/02/2000,08.00.00,1,Collision with vehicle,4,Wednesday,137,LEFT TURN SIDESWIPE                     ,MEL,40,78,G,2,1,Day,127896,2,2,0,1,0,1,1,5,Not at intersection,3,60
+12000007883,11/2/2000,07.45.00,1,Collision with vehicle,6,Friday,121,RIGHT THROUGH                        ,MEL,40,77,J,8,1,Day,42243,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000007886,22/02/2000,12.30.00,1,Collision with vehicle,3,Tuesday,133,LANE SIDE SWIPE (VEHICLES IN PARALLEL LANES)        ,MEL,40,2M,G,1,1,Day,37775,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000007888,19/02/2000,15.18.00,7,Fall from or in moving vehicle,7,Saturday,190,FELL IN/FROM VEHICLE                    ,MEL,40,2C,A,12,1,Day,45938,2,4,0,2,0,2,2,2,T intersection,3,60
+12000007902,29/02/2000,10.40.00,2,Struck Pedestrian,3,Tuesday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.      ,MEL,40,2P,F,9,1,Day,57527,1,2,0,1,0,1,1,1,Cross intersection,3,60
+12000007986,26/02/2000,10.00.00,1,Collision with vehicle,7,Saturday,131,LEFT REAR                          ,MEL,40,68,G,2,1,Day,41394,2,3,0,1,0,2,2,2,T intersection,3,60
+12000008008,27/02/2000,03.55.00,5,collision with some other object,1,Sunday,165,TEMPORARY ROADWORKS                     ,MEL,40,2G,F,12,6,Dark Street lights unknown,1637,1,1,0,1,0,0,1,5,Not at intersection,3,60
+12000008020,29/02/2000,09.30.00,1,Collision with vehicle,3,Tuesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2B,A,10,1,Day,36192,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000008027,25/02/2000,23.55.00,1,Collision with vehicle,6,Friday,121,RIGHT THROUGH                        ,MEL,40,1C,D,10,3,Dark Street lights on,45924,2,4,1,0,0,3,1,1,Cross intersection,2,60
+12000008029,22/02/2000,19.50.00,8,No collision and no object struck,3,Tuesday,174,OUT OF CONTROL ON CARRIAGEWAY (ON STRAIGHT)         ,MEL,40,87,B,10,1,Day,42798,2,2,0,2,0,0,1,2,T intersection,3,60
+12000008044,28/02/2000,15.00.00,2,Struck Pedestrian,2,Monday,106,VEH STRIKES PED ON FOOTPATH/MEDIAN/TRAFFIC ISLAND.,MEL,40,1B,R,5,1,Day,119821,1,2,0,1,0,1,2,5,Not at intersection,3,60
+12000008046,28/02/2000,11.40.00,4,Collision with a fixed object,2,Monday,173,RIGHT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE      ,MEL,40,2G,E,2,1,Day,37026,1,1,1,0,0,0,1,1,Cross intersection,2,60
+12000008080,17/01/2000,10.45.00,1,Collision with vehicle,2,Monday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,1A,F,3,1,Day,205,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000008112,7/2/2000,12.00.00,1,Collision with vehicle,2,Monday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2L,G,11,1,Day,37659,2,2,1,0,0,1,2,1,Cross intersection,2,60
+12000008118,22/02/2000,08.15.00,1,Collision with vehicle,3,Tuesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,88,H,10,1,Day,188671,4,4,0,2,0,2,1,5,Not at intersection,3,80
+12000008167,1/3/2000,14.42.00,1,Collision with vehicle,4,Wednesday,120,HEAD ON (NOT OVERTAKING)                  ,MEL,40,30,C,11,1,Day,128095,2,2,0,2,0,0,1,5,Not at intersection,3,60
+12000008170,28/02/2000,13.20.00,1,Collision with vehicle,2,Monday,121,RIGHT THROUGH                        ,MEL,40,30,A,10,1,Day,37818,3,4,1,0,0,3,1,1,Cross intersection,2,60
+12000008180,23/01/2000,04.15.00,1,Collision with vehicle,1,Sunday,120,HEAD ON (NOT OVERTAKING)                  ,MEL,40,2C,H,5,3,Dark Street lights on,127651,2,3,0,1,0,2,2,4,Multiple intersection,3,100
+12000008198,14/02/2000,10.50.00,2,Struck Pedestrian,2,Monday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT         ,MEL,40,2A,K,12,1,Day,128038,1,2,0,1,0,1,2,5,Not at intersection,3,60
+12000008212,22/02/2000,07.50.00,1,Collision with vehicle,3,Tuesday,121,RIGHT THROUGH                        ,MEL,40,97,B,1,1,Day,43294,2,2,0,1,0,1,1,2,T intersection,3,60
+12000008224,26/02/2000,04.35.00,1,Collision with vehicle,7,Saturday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2L,D,11,3,Dark Street lights on,29466,2,5,0,3,0,2,1,1,Cross intersection,3,60
+12000008228,29/02/2000,20.45.00,2,Struck Pedestrian,3,Tuesday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT         ,MEL,40,68,F,9,1,Day,41385,1,2,0,1,0,1,1,1,Cross intersection,3,60
+12000008233,29/02/2000,08.20.00,1,Collision with vehicle,3,Tuesday,121,RIGHT THROUGH                        ,MEL,40,67,G,5,1,Day,41197,2,2,0,2,0,0,1,1,Cross intersection,3,60
+12000008236,9/2/2000,15.30.00,1,Collision with vehicle,4,Wednesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,67,E,5,1,Day,41156,2,2,1,0,0,1,2,1,Cross intersection,2,60
+12000008239,29/02/2000,08.30.00,1,Collision with vehicle,3,Tuesday,121,RIGHT THROUGH                        ,MEL,40,67,H,9,1,Day,127982,2,3,0,3,0,0,1,5,Not at intersection,3,60
+12000008244,29/02/2000,06.00.00,1,Collision with vehicle,3,Tuesday,134,LANE CHANGE RIGHT (NOT OVERTAKING)             ,MEL,40,2M,J,1,1,Day,10759,4,5,0,2,0,3,1,5,Not at intersection,3,80
+12000008253,29/02/2000,18.50.00,1,Collision with vehicle,3,Tuesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2C,E,11,1,Day,29405,3,8,1,0,0,7,1,1,Cross intersection,2,60
+12000008267,15/02/2000,14.00.00,1,Collision with vehicle,3,Tuesday,121,RIGHT THROUGH                        ,MEL,40,67,D,5,1,Day,41129,2,3,0,1,0,2,2,1,Cross intersection,3,60
+12000008271,18/02/2000,16.15.00,2,Struck Pedestrian,6,Friday,108,PED STRUCK WALKING TO/FROM OR BOARDING/ALIGHTING VEHICLE.  ,MEL,40,59,J,8,1,Day,128037,1,2,1,0,0,1,2,5,Not at intersection,2,60
+12000008281,27/02/2000,20.10.00,1,Collision with vehicle,1,Sunday,147,VEHICLE STRIKES ANOTHER VEH WHILE EMERGING FROM DRIVEWAY,MEL,40,2P,H,5,1,Day,29594,2,3,0,1,0,2,2,1,Cross intersection,3,60
+12000008284,29/02/2000,16.00.00,1,Collision with vehicle,3,Tuesday,116,LEFT NEAR (INTERSECTIONS ONLY)               ,MEL,40,86,J,1,1,Day,45969,2,2,0,1,0,1,1,2,T intersection,3,60
+12000008295,29/02/2000,11.15.00,1,Collision with vehicle,3,Tuesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2A,J,6,1,Day,22,2,2,1,0,0,1,1,1,Cross intersection,2,60
+12000008301,6/2/2000,11.00.00,1,Collision with vehicle,1,Sunday,169,OTHER ON PATH                        ,MEL,40,2L,K,5,1,Day,81077,2,1,1,0,0,0,2,5,Not at intersection,2,60
+12000008306,23/02/2000,17.15.00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,93,E,6,1,Day,123982,3,3,0,1,0,2,1,5,Not at intersection,3,80
+12000008326,6/1/2000,11.40.00,1,Collision with vehicle,5,Thursday,121,RIGHT THROUGH                        ,MEL,40,2B,D,10,1,Day,57448,2,2,0,1,0,1,2,2,T intersection,3,60
+12000008351,27/02/2000,17.30.00,1,Collision with vehicle,1,Sunday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,2P,A,8,1,Day,40081,2,5,0,5,0,0,2,2,T intersection,3,60
+12000008358,25/02/2000,15.35.00,1,Collision with vehicle,6,Friday,132,RIGHT REAR.                         ,MEL,40,68,C,2,1,Day,41314,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000008360,28/02/2000,13.30.00,1,Collision with vehicle,2,Monday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,59,B,10,1,Day,587,4,4,0,1,0,3,1,2,T intersection,3,70
+12000008362,1/2/2000,14.05.00,4,Collision with a fixed object,3,Tuesday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE       ,MEL,40,97,J,6,1,Day,127954,1,3,1,2,0,0,1,5,Not at intersection,2,60
+12000008370,28/02/2000,08.55.00,1,Collision with vehicle,2,Monday,116,LEFT NEAR (INTERSECTIONS ONLY)               ,MEL,40,2C,F,8,1,Day,36629,2,3,0,1,0,2,1,1,Cross intersection,3,60
+12000008378,24/02/2000,17.00.00,1,Collision with vehicle,5,Thursday,121,RIGHT THROUGH                        ,MEL,40,2A,G,8,1,Day,36095,2,3,0,2,0,1,1,1,Cross intersection,3,60
+12000008385,27/02/2000,09.25.00,1,Collision with vehicle,1,Sunday,121,RIGHT THROUGH                        ,MEL,40,88,D,4,1,Day,42862,3,5,0,2,0,3,1,1,Cross intersection,3,60
+12000008398,23/02/2000,08.45.00,1,Collision with vehicle,4,Wednesday,116,LEFT NEAR (INTERSECTIONS ONLY)               ,MEL,40,78,B,2,1,Day,42290,4,4,1,0,0,3,1,2,T intersection,2,60
+12000008400,24/02/2000,17.30.00,1,Collision with vehicle,5,Thursday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,67,J,4,1,Day,41230,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000008403,25/02/2000,17.05.00,1,Collision with vehicle,6,Friday,113,RIGHT NEAR (INTERSECTIONS ONLY)               ,MEL,40,93,B,9,1,Day,43233,2,3,0,2,0,1,1,2,T intersection,3,60
+12000008405,27/02/2000,07.25.00,1,Collision with vehicle,1,Sunday,160,VEHICLE COLLIDES WITH VEHICLE PARKED ON LEFT OF ROAD    ,MEL,40,2N,D,1,1,Day,90312,3,1,0,1,0,0,1,5,Not at intersection,3,60
+12000008406,25/02/2000,07.45.00,1,Collision with vehicle,6,Friday,121,RIGHT THROUGH                        ,MEL,40,69,C,10,1,Day,95873,2,2,0,1,0,1,1,5,Not at intersection,3,60
+12000008411,1/2/2000,19.50.00,2,Struck Pedestrian,3,Tuesday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT         ,MEL,40,97,B,1,1,Day,43293,1,2,0,2,0,0,2,2,T intersection,3,60
+12000008413,27/02/2000,10.30.00,1,Collision with vehicle,1,Sunday,134,LANE CHANGE RIGHT (NOT OVERTAKING)             ,MEL,40,2B,D,10,1,Day,127988,2,2,0,2,0,0,1,5,Not at intersection,3,60
+12000008416,24/02/2000,16.35.00,1,Collision with vehicle,5,Thursday,120,HEAD ON (NOT OVERTAKING)                  ,MEL,40,2B,D,3,1,Day,127989,4,3,0,3,0,0,1,5,Not at intersection,3,60
+12000008417,2/2/2000,16.45.00,1,Collision with vehicle,4,Wednesday,121,RIGHT THROUGH                        ,MEL,40,97,H,1,1,Day,36525,2,2,0,1,0,1,2,2,T intersection,3,60
+12000008422,25/02/2000,11.50.00,2,Struck Pedestrian,6,Friday,101,PED EMERGES FROM IN FRONT OF PARKED OR STATIONARY VEHICLE  ,MEL,40,1B,L,3,1,Day,127990,1,2,1,0,0,1,1,5,Not at intersection,2,60
+12000008429,17/02/2000,15.30.00,5,collision with some other object,5,Thursday,166,STRUCK OBJECT ON CARRIAGEWAY                ,MEL,40,93,C,11,1,Day,45948,1,2,0,1,0,1,2,2,T intersection,3,60
+12000008433,24/02/2000,15.50.00,1,Collision with vehicle,5,Thursday,132,RIGHT REAR.                         ,MEL,40,77,A,7,1,Day,42106,2,3,0,3,0,0,1,2,T intersection,3,60
+12000008436,25/02/2000,17.25.00,1,Collision with vehicle,6,Friday,121,RIGHT THROUGH                        ,MEL,40,93,B,12,1,Day,43239,2,3,0,1,0,2,1,2,T intersection,3,60
+12000008437,28/02/2000,12.45.00,1,Collision with vehicle,2,Monday,143,ENTERING PARKING                      ,MEL,40,2B,C,12,1,Day,120545,2,3,0,1,0,2,1,5,Not at intersection,3,60
+12000008444,26/02/2000,16.55.00,1,Collision with vehicle,7,Saturday,136,RIGHT TURN SIDESWIPE                    ,MEL,40,2B,C,11,1,Day,36230,2,3,0,1,0,2,1,1,Cross intersection,3,60
+12000008502,26/02/2000,08.10.00,1,Collision with vehicle,7,Saturday,162,ACCIDENT OR BROKEN DOWN                   ,MEL,40,56,E,1,1,Day,127782,2,2,0,2,0,0,1,5,Not at intersection,3,80
+12000008504,25/02/2000,14.25.00,2,Struck Pedestrian,6,Friday,101,PED EMERGES FROM IN FRONT OF PARKED OR STATIONARY VEHICLE  ,MEL,40,2C,H,8,1,Day,36669,1,2,0,1,0,1,1,2,T intersection,3,60
+12000008523,25/02/2000,17.35.00,1,Collision with vehicle,6,Friday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,79,B,10,1,Day,99251,4,4,1,0,0,3,1,5,Not at intersection,2,60
+12000008528,25/02/2000,20.15.00,2,Struck Pedestrian,6,Friday,100,PED NEAR SIDE. PED HIT BY VEHICLE FROM THE RIGHT.      ,MEL,40,77,A,8,3,Dark Street lights on,98277,1,2,0,1,0,1,1,5,Not at intersection,3,60
+12000008534,9/1/2000,14.00.00,1,Collision with vehicle,1,Sunday,148,VEHICLE OFF FOOTPATH STRIKES VEH ON CARRIAGEWAY,MEL,40,86,B,8,1,Day,127647,2,2,0,1,0,1,1,5,Not at intersection,3,60
+12000008539,10/2/2000,18.00.00,2,Struck Pedestrian,5,Thursday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT         ,MEL,40,2G,K,10,1,Day,35383,1,2,0,1,0,1,2,1,Cross intersection,3,60
+12000008541,4/2/2000,17.05.00,2,Struck Pedestrian,6,Friday,101,PED EMERGES FROM IN FRONT OF PARKED OR STATIONARY VEHICLE  ,MEL,40,2M,D,6,1,Day,127779,1,2,0,1,0,1,2,5,Not at intersection,3,60
+12000008555,22/02/2000,16.45.00,2,Struck Pedestrian,3,Tuesday,102,FAR SIDE. PED HIT BY VEHICLE FROM THE LEFT         ,MEL,40,79,B,11,1,Day,127780,1,2,0,1,0,1,2,5,Not at intersection,3,80
+12000008558,25/02/2000,16.05.00,2,Struck Pedestrian,6,Friday,101,PED EMERGES FROM IN FRONT OF PARKED OR STATIONARY VEHICLE  ,MEL,40,2H,A,6,1,Day,37196,1,2,0,1,0,1,1,1,Cross intersection,3,60
+12000008625,13/03/2000,08.10.00,1,Collision with vehicle,2,Monday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,76,F,6,1,Day,126658,2,3,0,1,1,1,1,1,Cross intersection,1,60
+12000008884,4/3/2000,17.11.00,1,Collision with vehicle,7,Saturday,121,RIGHT THROUGH                        ,MEL,40,100,D,4,1,Day,929,2,3,0,3,0,0,1,1,Cross intersection,3,80
+12000008922,8/3/2000,21.35.00,1,Collision with vehicle,4,Wednesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2G,E,2,3,Dark Street lights on,29433,3,2,0,1,0,1,1,1,Cross intersection,3,60
+12000008928,29/02/2000,17.15.00,2,Struck Pedestrian,3,Tuesday,103,PED PLAYING/LYING/WORKING/STANDING ON CARRIAGEWAY.,MEL,40,2F,H,11,1,Day,75598,1,2,0,1,0,1,2,5,Not at intersection,3,60
+12000009055,3/3/2000,10.30.00,1,Collision with vehicle,6,Friday,162,ACCIDENT OR BROKEN DOWN                   ,MEL,40,69,E,2,1,Day,128069,2,2,1,0,0,1,1,5,Not at intersection,2,100
+12000009059,7/3/2000,21.40.00,1,Collision with vehicle,3,Tuesday,110,CROSS TRAFFIC(INTERSECTIONS ONLY)              ,MEL,40,2A,H,11,3,Dark Street lights on,29377,2,3,0,1,0,2,2,1,Cross intersection,3,60
+12000009072,23/02/2000,07.15.00,1,Collision with vehicle,4,Wednesday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,87,J,12,1,Day,127974,2,4,0,1,0,3,2,5,Not at intersection,3,70
+12000009103,2/3/2000,20.50.00,1,Collision with vehicle,5,Thursday,112,LEFT FAR (INTERSECTIONS ONLY)                ,MEL,40,68,C,2,3,Dark Street lights on,41313,2,2,0,1,0,1,2,1,Cross intersection,3,60
+12000009117,3/3/2000,08.20.00,1,Collision with vehicle,6,Friday,121,RIGHT THROUGH                        ,MEL,40,2B,E,7,1,Day,29390,2,2,0,1,0,1,1,2,T intersection,3,60
+12000009124,19/02/2000,18.20.00,1,Collision with vehicle,7,Saturday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,1C,A,4,1,Day,127975,2,5,0,3,0,2,1,5,Not at intersection,3,80
+12000009128,14/02/2000,15.00.00,1,Collision with vehicle,2,Monday,130,REAR END(VEHICLES IN SAME LANE)               ,MEL,40,1D,S,7,1,Day,127977,4,4,0,1,0,3,1,5,Not at intersection,3,60
+12000009134,9/2/2000,14.30.00,2,Struck Pedestrian,4,Wednesday,106,VEH STRIKES PED ON FOOTPATH/MEDIAN/TRAFFIC ISLAND.,MEL,40,2B,C,12,1,Day,35310,1,2,1,0,0,1,1,1,Cross intersection,2,60
+12000009136,14/02/2000,15.40.00,4,Collision with a fixed object,2,Monday,181,OFF RIGHT BEND INTO OBJECT/PARKED VEHICLE          ,MEL,40,67,C,10,1,Day,111,1,2,0,2,0,0,1,2,T intersection,3,60
+12000009327,3/3/2000,00.05.00,4,Collision with a fixed object,6,Friday,171,LEFT OFF CARRIAGEWAY INTO OBJECT/PARKED VEHICLE       ,MEL,40,59,A,7,3,Dark Street lights on,128126,1,1,0,1,0,0,1,6,Dead end,3,60
+12000009329,2/3/2000,12.40.00,1,Collision with vehicle,5,Thursday,148,VEHICLE OFF FOOTPATH STRIKES VEH ON CARRIAGEWAY,MEL,40,68,E,1,1,Day,91707,2,2,0,1,0,1,2,5,Not at intersection,3,60
+12000009332,2/3/2000,15.50.00,1,Collision with vehicle,5,Thursday,143,ENTERING PARKING                      ,MEL,40,77,E,9,1,Day,128127,3,2,0,1,0,1,1,5,Not at intersection,3,60
+12000009335,29/02/2000,07.00.00,1,Collision with vehicle,3,Tuesday,131,LEFT REAR                          ,MEL,40,1A,H,3,1,Day,29418,2,2,0,1,0,1,1,1,Cross intersection,3,60
+12000009340,29/02/2000,06.50.00,1,Collision with vehicle,3,Tuesday,154,PULLING OUT -REAR END                    ,MEL,40,2H,K,11,2,Dusk/Dawn,127966,2,2,1,1,0,0,2,5,Not at intersection,2,60
+12000009342,2/3/2000,16.30.00,1,Collision with vehicle,5,Thursday,116,LEFT NEAR (INTERSECTIONS ONLY)               ,MEL,40,97,B,1,1,Day,43292,2,2,0,1,0,1,1,2,T intersection,3,60
+12000009345,5/3/2000,01.10.00,1,Collision with vehicle,1,Sunday,121,RIGHT THROUGH                        ,MEL,40,58,F,8,3,Dark Street lights on,57518,2,3,0,1,0,2,1,1,Cross intersection,3,60
+12000009347,6/3/2000,16.15.00,1,Collision with vehicle,2,Monday,120,HEAD ON (NOT OVERTAKING)                  ,MEL,40,68,H,7,1,Day,128130,2,2,0,1,0,1,1,5,Not at intersection,3,60
